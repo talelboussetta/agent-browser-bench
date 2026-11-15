@@ -1,0 +1,151 @@
+{"meta": true, "tool": "crawl4ai", "suite": "pages", "n": 30, "startup_ms": 5238.7, "platform": "Windows-11-10.0.26300-SP0", "python": "3.13.1"}
+{"ms": 432.2, "ok": true, "err": null, "idx": 0, "kind": "static"}
+{"ms": 376.0, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1721 bytes, 10 chars visible)", "idx": 1, "kind": "spa"}
+{"ms": 868.2, "ok": true, "err": null, "idx": 2, "kind": "heavy"}
+{"ms": 1859.9, "ok": true, "err": null, "idx": 3, "kind": "slow"}
+{"ms": 363.2, "ok": true, "err": null, "idx": 4, "kind": "state"}
+{"ms": 396.4, "ok": true, "err": null, "idx": 5, "kind": "static"}
+{"ms": 338.5, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1699 bytes, 10 chars visible)", "idx": 6, "kind": "spa"}
+{"ms": 796.9, "ok": true, "err": null, "idx": 7, "kind": "heavy"}
+{"ms": 1874.6, "ok": true, "err": null, "idx": 8, "kind": "slow"}
+{"ms": 397.5, "ok": true, "err": null, "idx": 9, "kind": "state"}
+{"ms": 416.3, "ok": true, "err": null, "idx": 10, "kind": "static"}
+{"ms": 357.9, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1712 bytes, 10 chars visible)", "idx": 11, "kind": "spa"}
+{"ms": 892.0, "ok": true, "err": null, "idx": 12, "kind": "heavy"}
+{"ms": 1884.3, "ok": true, "err": null, "idx": 13, "kind": "slow"}
+{"ms": 369.3, "ok": true, "err": null, "idx": 14, "kind": "state"}
+{"ms": 368.9, "ok": true, "err": null, "idx": 15, "kind": "static"}
+{"ms": 361.6, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1670 bytes, 10 chars visible)", "idx": 16, "kind": "spa"}
+{"ms": 868.2, "ok": true, "err": null, "idx": 17, "kind": "heavy"}
+{"ms": 1861.3, "ok": true, "err": null, "idx": 18, "kind": "slow"}
+{"ms": 374.2, "ok": true, "err": null, "idx": 19, "kind": "state"}
+{"ms": 364.9, "ok": true, "err": null, "idx": 20, "kind": "static"}
+{"ms": 338.3, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1678 bytes, 10 chars visible)", "idx": 21, "kind": "spa"}
+{"ms": 750.2, "ok": true, "err": null, "idx": 22, "kind": "heavy"}
+{"ms": 1846.2, "ok": true, "err": null, "idx": 23, "kind": "slow"}
+{"ms": 375.7, "ok": true, "err": null, "idx": 24, "kind": "state"}
+{"ms": 383.4, "ok": true, "err": null, "idx": 25, "kind": "static"}
+{"ms": 348.5, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1704 bytes, 10 chars visible)", "idx": 26, "kind": "spa"}
+{"ms": 850.2, "ok": true, "err": null, "idx": 27, "kind": "heavy"}
+{"ms": 1848.2, "ok": true, "err": null, "idx": 28, "kind": "slow"}
+{"ms": 400.1, "ok": true, "err": null, "idx": 29, "kind": "state"}
+{"ms": 365.4, "ok": true, "err": null, "idx": 30, "kind": "static"}
+{"ms": 350.4, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1677 bytes, 10 chars visible)", "idx": 31, "kind": "spa"}
+{"ms": 872.1, "ok": true, "err": null, "idx": 32, "kind": "heavy"}
+{"ms": 4972.4, "ok": true, "err": null, "idx": 33, "kind": "slow"}
+{"ms": 456.5, "ok": true, "err": null, "idx": 34, "kind": "state"}
+{"ms": 483.9, "ok": true, "err": null, "idx": 35, "kind": "static"}
+{"ms": 375.6, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1682 bytes, 10 chars visible)", "idx": 36, "kind": "spa"}
+{"ms": 880.4, "ok": true, "err": null, "idx": 37, "kind": "heavy"}
+{"ms": 1861.5, "ok": true, "err": null, "idx": 38, "kind": "slow"}
+{"ms": 427.3, "ok": true, "err": null, "idx": 39, "kind": "state"}
+{"ms": 375.7, "ok": true, "err": null, "idx": 40, "kind": "static"}
+{"ms": 345.7, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1692 bytes, 10 chars visible)", "idx": 41, "kind": "spa"}
+{"ms": 903.0, "ok": true, "err": null, "idx": 42, "kind": "heavy"}
+{"ms": 1887.6, "ok": true, "err": null, "idx": 43, "kind": "slow"}
+{"ms": 446.4, "ok": true, "err": null, "idx": 44, "kind": "state"}
+{"ms": 389.9, "ok": true, "err": null, "idx": 45, "kind": "static"}
+{"ms": 388.8, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1680 bytes, 10 chars visible)", "idx": 46, "kind": "spa"}
+{"ms": 896.0, "ok": true, "err": null, "idx": 47, "kind": "heavy"}
+{"ms": 1860.2, "ok": true, "err": null, "idx": 48, "kind": "slow"}
+{"ms": 411.5, "ok": true, "err": null, "idx": 49, "kind": "state"}
+{"ms": 2877.1, "ok": true, "err": null, "idx": 50, "kind": "static"}
+{"ms": 357.7, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1668 bytes, 10 chars visible)", "idx": 51, "kind": "spa"}
+{"ms": 830.7, "ok": true, "err": null, "idx": 52, "kind": "heavy"}
+{"ms": 5239.3, "ok": true, "err": null, "idx": 53, "kind": "slow"}
+{"ms": 419.0, "ok": true, "err": null, "idx": 54, "kind": "state"}
+{"ms": 386.5, "ok": true, "err": null, "idx": 55, "kind": "static"}
+{"ms": 342.9, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1709 bytes, 10 chars visible)", "idx": 56, "kind": "spa"}
+{"ms": 820.6, "ok": true, "err": null, "idx": 57, "kind": "heavy"}
+{"ms": 1881.3, "ok": true, "err": null, "idx": 58, "kind": "slow"}
+{"ms": 446.4, "ok": true, "err": null, "idx": 59, "kind": "state"}
+{"ms": 436.0, "ok": true, "err": null, "idx": 60, "kind": "static"}
+{"ms": 357.8, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1701 bytes, 10 chars visible)", "idx": 61, "kind": "spa"}
+{"ms": 930.4, "ok": true, "err": null, "idx": 62, "kind": "heavy"}
+{"ms": 1859.9, "ok": true, "err": null, "idx": 63, "kind": "slow"}
+{"ms": 418.6, "ok": true, "err": null, "idx": 64, "kind": "state"}
+{"ms": 398.2, "ok": true, "err": null, "idx": 65, "kind": "static"}
+{"ms": 337.6, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1713 bytes, 10 chars visible)", "idx": 66, "kind": "spa"}
+{"ms": 775.1, "ok": true, "err": null, "idx": 67, "kind": "heavy"}
+{"ms": 1851.3, "ok": true, "err": null, "idx": 68, "kind": "slow"}
+{"ms": 462.8, "ok": true, "err": null, "idx": 69, "kind": "state"}
+{"ms": 431.1, "ok": true, "err": null, "idx": 70, "kind": "static"}
+{"ms": 370.0, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1676 bytes, 10 chars visible)", "idx": 71, "kind": "spa"}
+{"ms": 836.6, "ok": true, "err": null, "idx": 72, "kind": "heavy"}
+{"ms": 1847.3, "ok": true, "err": null, "idx": 73, "kind": "slow"}
+{"ms": 421.4, "ok": true, "err": null, "idx": 74, "kind": "state"}
+{"ms": 391.0, "ok": true, "err": null, "idx": 75, "kind": "static"}
+{"ms": 363.9, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1675 bytes, 10 chars visible)", "idx": 76, "kind": "spa"}
+{"ms": 819.1, "ok": true, "err": null, "idx": 77, "kind": "heavy"}
+{"ms": 1842.5, "ok": true, "err": null, "idx": 78, "kind": "slow"}
+{"ms": 439.2, "ok": true, "err": null, "idx": 79, "kind": "state"}
+{"ms": 397.0, "ok": true, "err": null, "idx": 80, "kind": "static"}
+{"ms": 325.6, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1709 bytes, 10 chars visible)", "idx": 81, "kind": "spa"}
+{"ms": 909.5, "ok": true, "err": null, "idx": 82, "kind": "heavy"}
+{"ms": 1848.3, "ok": true, "err": null, "idx": 83, "kind": "slow"}
+{"ms": 407.2, "ok": true, "err": null, "idx": 84, "kind": "state"}
+{"ms": 374.4, "ok": true, "err": null, "idx": 85, "kind": "static"}
+{"ms": 337.2, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1715 bytes, 10 chars visible)", "idx": 86, "kind": "spa"}
+{"ms": 809.5, "ok": true, "err": null, "idx": 87, "kind": "heavy"}
+{"ms": 1856.6, "ok": true, "err": null, "idx": 88, "kind": "slow"}
+{"ms": 445.9, "ok": true, "err": null, "idx": 89, "kind": "state"}
+{"ms": 405.2, "ok": true, "err": null, "idx": 90, "kind": "static"}
+{"ms": 371.1, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1690 bytes, 10 chars visible)", "idx": 91, "kind": "spa"}
+{"ms": 890.6, "ok": true, "err": null, "idx": 92, "kind": "heavy"}
+{"ms": 1860.9, "ok": true, "err": null, "idx": 93, "kind": "slow"}
+{"ms": 417.8, "ok": true, "err": null, "idx": 94, "kind": "state"}
+{"ms": 412.4, "ok": true, "err": null, "idx": 95, "kind": "static"}
+{"ms": 356.4, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1678 bytes, 10 chars visible)", "idx": 96, "kind": "spa"}
+{"ms": 814.2, "ok": true, "err": null, "idx": 97, "kind": "heavy"}
+{"ms": 1839.0, "ok": true, "err": null, "idx": 98, "kind": "slow"}
+{"ms": 408.4, "ok": true, "err": null, "idx": 99, "kind": "state"}
+{"ms": 379.2, "ok": true, "err": null, "idx": 100, "kind": "static"}
+{"ms": 332.8, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1692 bytes, 10 chars visible)", "idx": 101, "kind": "spa"}
+{"ms": 791.0, "ok": true, "err": null, "idx": 102, "kind": "heavy"}
+{"ms": 4858.2, "ok": true, "err": null, "idx": 103, "kind": "slow"}
+{"ms": 395.9, "ok": true, "err": null, "idx": 104, "kind": "state"}
+{"ms": 395.9, "ok": true, "err": null, "idx": 105, "kind": "static"}
+{"ms": 347.7, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1705 bytes, 10 chars visible)", "idx": 106, "kind": "spa"}
+{"ms": 833.6, "ok": true, "err": null, "idx": 107, "kind": "heavy"}
+{"ms": 1848.4, "ok": true, "err": null, "idx": 108, "kind": "slow"}
+{"ms": 2785.7, "ok": true, "err": null, "idx": 109, "kind": "state"}
+{"ms": 369.6, "ok": true, "err": null, "idx": 110, "kind": "static"}
+{"ms": 342.2, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1703 bytes, 10 chars visible)", "idx": 111, "kind": "spa"}
+{"ms": 825.2, "ok": true, "err": null, "idx": 112, "kind": "heavy"}
+{"ms": 1859.2, "ok": true, "err": null, "idx": 113, "kind": "slow"}
+{"ms": 400.8, "ok": true, "err": null, "idx": 114, "kind": "state"}
+{"ms": 371.1, "ok": true, "err": null, "idx": 115, "kind": "static"}
+{"ms": 341.9, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1647 bytes, 10 chars visible)", "idx": 116, "kind": "spa"}
+{"ms": 847.8, "ok": true, "err": null, "idx": 117, "kind": "heavy"}
+{"ms": 1868.6, "ok": true, "err": null, "idx": 118, "kind": "slow"}
+{"ms": 434.6, "ok": true, "err": null, "idx": 119, "kind": "state"}
+{"ms": 407.0, "ok": true, "err": null, "idx": 120, "kind": "static"}
+{"ms": 336.8, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1691 bytes, 10 chars visible)", "idx": 121, "kind": "spa"}
+{"ms": 768.1, "ok": true, "err": null, "idx": 122, "kind": "heavy"}
+{"ms": 1834.5, "ok": true, "err": null, "idx": 123, "kind": "slow"}
+{"ms": 460.2, "ok": true, "err": null, "idx": 124, "kind": "state"}
+{"ms": 413.2, "ok": true, "err": null, "idx": 125, "kind": "static"}
+{"ms": 375.4, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1691 bytes, 10 chars visible)", "idx": 126, "kind": "spa"}
+{"ms": 869.3, "ok": true, "err": null, "idx": 127, "kind": "heavy"}
+{"ms": 1868.4, "ok": true, "err": null, "idx": 128, "kind": "slow"}
+{"ms": 412.4, "ok": true, "err": null, "idx": 129, "kind": "state"}
+{"ms": 399.1, "ok": true, "err": null, "idx": 130, "kind": "static"}
+{"ms": 335.2, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1673 bytes, 10 chars visible)", "idx": 131, "kind": "spa"}
+{"ms": 811.6, "ok": true, "err": null, "idx": 132, "kind": "heavy"}
+{"ms": 1859.1, "ok": true, "err": null, "idx": 133, "kind": "slow"}
+{"ms": 413.2, "ok": true, "err": null, "idx": 134, "kind": "state"}
+{"ms": 372.6, "ok": true, "err": null, "idx": 135, "kind": "static"}
+{"ms": 324.7, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1683 bytes, 10 chars visible)", "idx": 136, "kind": "spa"}
+{"ms": 798.3, "ok": true, "err": null, "idx": 137, "kind": "heavy"}
+{"ms": 1843.8, "ok": true, "err": null, "idx": 138, "kind": "slow"}
+{"ms": 397.6, "ok": true, "err": null, "idx": 139, "kind": "state"}
+{"ms": 390.9, "ok": true, "err": null, "idx": 140, "kind": "static"}
+{"ms": 332.7, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1685 bytes, 10 chars visible)", "idx": 141, "kind": "spa"}
+{"ms": 877.6, "ok": true, "err": null, "idx": 142, "kind": "heavy"}
+{"ms": 1857.6, "ok": true, "err": null, "idx": 143, "kind": "slow"}
+{"ms": 416.3, "ok": true, "err": null, "idx": 144, "kind": "state"}
+{"ms": 406.6, "ok": true, "err": null, "idx": 145, "kind": "static"}
+{"ms": 328.5, "ok": false, "err": "RuntimeError: Blocked by anti-bot protection: Structural: minimal_text on small page (1700 bytes, 10 chars visible)", "idx": 146, "kind": "spa"}
+{"ms": 828.7, "ok": true, "err": null, "idx": 147, "kind": "heavy"}
+{"ms": 1843.2, "ok": true, "err": null, "idx": 148, "kind": "slow"}
+{"ms": 391.9, "ok": true, "err": null, "idx": 149, "kind": "state"}

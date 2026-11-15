@@ -1,0 +1,1002 @@
+{"meta": true, "tool": "playwright-load", "suite": "endurance", "n": 1000, "startup_ms": 1081.6, "platform": "Windows-11-10.0.26300-SP0", "python": "3.13.1"}
+{"ms": 48.3, "ok": true, "err": null, "idx": 0, "kind": "static", "mem": 376619008}
+{"ms": 42.8, "ok": false, "err": "token missing", "idx": 1, "kind": "spa"}
+{"ms": 143.1, "ok": true, "err": null, "idx": 2, "kind": "heavy"}
+{"ms": 91.0, "ok": true, "err": null, "idx": 3, "kind": "state"}
+{"ms": 47.1, "ok": true, "err": null, "idx": 4, "kind": "static"}
+{"ms": 47.5, "ok": false, "err": "token missing", "idx": 5, "kind": "spa"}
+{"ms": 151.4, "ok": true, "err": null, "idx": 6, "kind": "heavy"}
+{"ms": 97.8, "ok": true, "err": null, "idx": 7, "kind": "state"}
+{"ms": 46.2, "ok": true, "err": null, "idx": 8, "kind": "static"}
+{"ms": 37.1, "ok": false, "err": "token missing", "idx": 9, "kind": "spa"}
+{"ms": 155.6, "ok": true, "err": null, "idx": 10, "kind": "heavy"}
+{"ms": 66.6, "ok": true, "err": null, "idx": 11, "kind": "state"}
+{"ms": 46.8, "ok": true, "err": null, "idx": 12, "kind": "static"}
+{"ms": 46.3, "ok": false, "err": "token missing", "idx": 13, "kind": "spa"}
+{"ms": 142.5, "ok": true, "err": null, "idx": 14, "kind": "heavy"}
+{"ms": 92.7, "ok": true, "err": null, "idx": 15, "kind": "state"}
+{"ms": 45.7, "ok": true, "err": null, "idx": 16, "kind": "static"}
+{"ms": 39.9, "ok": false, "err": "token missing", "idx": 17, "kind": "spa"}
+{"ms": 157.7, "ok": true, "err": null, "idx": 18, "kind": "heavy"}
+{"ms": 95.0, "ok": true, "err": null, "idx": 19, "kind": "state"}
+{"ms": 47.4, "ok": true, "err": null, "idx": 20, "kind": "static"}
+{"ms": 50.1, "ok": false, "err": "token missing", "idx": 21, "kind": "spa"}
+{"ms": 152.3, "ok": true, "err": null, "idx": 22, "kind": "heavy"}
+{"ms": 107.0, "ok": true, "err": null, "idx": 23, "kind": "state"}
+{"ms": 52.1, "ok": true, "err": null, "idx": 24, "kind": "static"}
+{"ms": 45.3, "ok": false, "err": "token missing", "idx": 25, "kind": "spa"}
+{"ms": 175.3, "ok": true, "err": null, "idx": 26, "kind": "heavy"}
+{"ms": 66.1, "ok": true, "err": null, "idx": 27, "kind": "state"}
+{"ms": 47.8, "ok": true, "err": null, "idx": 28, "kind": "static"}
+{"ms": 42.5, "ok": false, "err": "token missing", "idx": 29, "kind": "spa"}
+{"ms": 138.0, "ok": true, "err": null, "idx": 30, "kind": "heavy"}
+{"ms": 91.0, "ok": true, "err": null, "idx": 31, "kind": "state"}
+{"ms": 43.3, "ok": true, "err": null, "idx": 32, "kind": "static"}
+{"ms": 43.0, "ok": false, "err": "token missing", "idx": 33, "kind": "spa"}
+{"ms": 132.1, "ok": true, "err": null, "idx": 34, "kind": "heavy"}
+{"ms": 83.1, "ok": true, "err": null, "idx": 35, "kind": "state"}
+{"ms": 46.3, "ok": true, "err": null, "idx": 36, "kind": "static"}
+{"ms": 48.0, "ok": false, "err": "token missing", "idx": 37, "kind": "spa"}
+{"ms": 133.5, "ok": true, "err": null, "idx": 38, "kind": "heavy"}
+{"ms": 89.5, "ok": true, "err": null, "idx": 39, "kind": "state"}
+{"ms": 52.8, "ok": true, "err": null, "idx": 40, "kind": "static"}
+{"ms": 45.9, "ok": false, "err": "token missing", "idx": 41, "kind": "spa"}
+{"ms": 145.5, "ok": true, "err": null, "idx": 42, "kind": "heavy"}
+{"ms": 63.5, "ok": true, "err": null, "idx": 43, "kind": "state"}
+{"ms": 45.5, "ok": true, "err": null, "idx": 44, "kind": "static"}
+{"ms": 47.4, "ok": false, "err": "token missing", "idx": 45, "kind": "spa"}
+{"ms": 144.4, "ok": true, "err": null, "idx": 46, "kind": "heavy"}
+{"ms": 89.6, "ok": true, "err": null, "idx": 47, "kind": "state"}
+{"ms": 49.4, "ok": true, "err": null, "idx": 48, "kind": "static"}
+{"ms": 47.2, "ok": false, "err": "token missing", "idx": 49, "kind": "spa"}
+{"ms": 137.3, "ok": true, "err": null, "idx": 50, "kind": "heavy", "mem": 660721664}
+{"ms": 49.6, "ok": true, "err": null, "idx": 51, "kind": "state"}
+{"ms": 47.5, "ok": true, "err": null, "idx": 52, "kind": "static"}
+{"ms": 46.4, "ok": false, "err": "token missing", "idx": 53, "kind": "spa"}
+{"ms": 129.4, "ok": true, "err": null, "idx": 54, "kind": "heavy"}
+{"ms": 82.0, "ok": true, "err": null, "idx": 55, "kind": "state"}
+{"ms": 49.5, "ok": true, "err": null, "idx": 56, "kind": "static"}
+{"ms": 44.3, "ok": false, "err": "token missing", "idx": 57, "kind": "spa"}
+{"ms": 138.5, "ok": true, "err": null, "idx": 58, "kind": "heavy"}
+{"ms": 89.4, "ok": true, "err": null, "idx": 59, "kind": "state"}
+{"ms": 49.0, "ok": true, "err": null, "idx": 60, "kind": "static"}
+{"ms": 44.4, "ok": false, "err": "token missing", "idx": 61, "kind": "spa"}
+{"ms": 137.6, "ok": true, "err": null, "idx": 62, "kind": "heavy"}
+{"ms": 141.0, "ok": true, "err": null, "idx": 63, "kind": "state"}
+{"ms": 64.0, "ok": true, "err": null, "idx": 64, "kind": "static"}
+{"ms": 54.8, "ok": false, "err": "token missing", "idx": 65, "kind": "spa"}
+{"ms": 145.3, "ok": true, "err": null, "idx": 66, "kind": "heavy"}
+{"ms": 55.9, "ok": true, "err": null, "idx": 67, "kind": "state"}
+{"ms": 56.5, "ok": true, "err": null, "idx": 68, "kind": "static"}
+{"ms": 54.6, "ok": false, "err": "token missing", "idx": 69, "kind": "spa"}
+{"ms": 136.9, "ok": true, "err": null, "idx": 70, "kind": "heavy"}
+{"ms": 97.1, "ok": true, "err": null, "idx": 71, "kind": "state"}
+{"ms": 56.3, "ok": true, "err": null, "idx": 72, "kind": "static"}
+{"ms": 54.3, "ok": false, "err": "token missing", "idx": 73, "kind": "spa"}
+{"ms": 132.3, "ok": true, "err": null, "idx": 74, "kind": "heavy"}
+{"ms": 91.5, "ok": true, "err": null, "idx": 75, "kind": "state"}
+{"ms": 56.4, "ok": true, "err": null, "idx": 76, "kind": "static"}
+{"ms": 49.3, "ok": false, "err": "token missing", "idx": 77, "kind": "spa"}
+{"ms": 135.2, "ok": true, "err": null, "idx": 78, "kind": "heavy"}
+{"ms": 104.9, "ok": true, "err": null, "idx": 79, "kind": "state"}
+{"ms": 50.2, "ok": true, "err": null, "idx": 80, "kind": "static"}
+{"ms": 50.2, "ok": false, "err": "token missing", "idx": 81, "kind": "spa"}
+{"ms": 157.5, "ok": true, "err": null, "idx": 82, "kind": "heavy"}
+{"ms": 89.8, "ok": true, "err": null, "idx": 83, "kind": "state"}
+{"ms": 51.0, "ok": true, "err": null, "idx": 84, "kind": "static"}
+{"ms": 54.2, "ok": false, "err": "token missing", "idx": 85, "kind": "spa"}
+{"ms": 141.9, "ok": true, "err": null, "idx": 86, "kind": "heavy"}
+{"ms": 102.3, "ok": true, "err": null, "idx": 87, "kind": "state"}
+{"ms": 57.6, "ok": true, "err": null, "idx": 88, "kind": "static"}
+{"ms": 50.9, "ok": false, "err": "token missing", "idx": 89, "kind": "spa"}
+{"ms": 148.5, "ok": true, "err": null, "idx": 90, "kind": "heavy"}
+{"ms": 50.0, "ok": true, "err": null, "idx": 91, "kind": "state"}
+{"ms": 54.0, "ok": true, "err": null, "idx": 92, "kind": "static"}
+{"ms": 53.1, "ok": false, "err": "token missing", "idx": 93, "kind": "spa"}
+{"ms": 160.4, "ok": true, "err": null, "idx": 94, "kind": "heavy"}
+{"ms": 83.0, "ok": true, "err": null, "idx": 95, "kind": "state"}
+{"ms": 69.2, "ok": true, "err": null, "idx": 96, "kind": "static"}
+{"ms": 62.9, "ok": false, "err": "token missing", "idx": 97, "kind": "spa"}
+{"ms": 149.0, "ok": true, "err": null, "idx": 98, "kind": "heavy"}
+{"ms": 96.0, "ok": true, "err": null, "idx": 99, "kind": "state"}
+{"ms": 40.0, "ok": true, "err": null, "idx": 100, "kind": "static", "mem": 822636544}
+{"ms": 41.9, "ok": false, "err": "token missing", "idx": 101, "kind": "spa"}
+{"ms": 125.6, "ok": true, "err": null, "idx": 102, "kind": "heavy"}
+{"ms": 85.2, "ok": true, "err": null, "idx": 103, "kind": "state"}
+{"ms": 47.2, "ok": true, "err": null, "idx": 104, "kind": "static"}
+{"ms": 38.9, "ok": false, "err": "token missing", "idx": 105, "kind": "spa"}
+{"ms": 130.5, "ok": true, "err": null, "idx": 106, "kind": "heavy"}
+{"ms": 44.3, "ok": true, "err": null, "idx": 107, "kind": "state"}
+{"ms": 41.4, "ok": true, "err": null, "idx": 108, "kind": "static"}
+{"ms": 38.7, "ok": false, "err": "token missing", "idx": 109, "kind": "spa"}
+{"ms": 143.1, "ok": true, "err": null, "idx": 110, "kind": "heavy"}
+{"ms": 91.6, "ok": true, "err": null, "idx": 111, "kind": "state"}
+{"ms": 48.9, "ok": true, "err": null, "idx": 112, "kind": "static"}
+{"ms": 48.9, "ok": false, "err": "token missing", "idx": 113, "kind": "spa"}
+{"ms": 152.4, "ok": true, "err": null, "idx": 114, "kind": "heavy"}
+{"ms": 96.7, "ok": true, "err": null, "idx": 115, "kind": "state"}
+{"ms": 48.6, "ok": true, "err": null, "idx": 116, "kind": "static"}
+{"ms": 47.5, "ok": false, "err": "token missing", "idx": 117, "kind": "spa"}
+{"ms": 131.4, "ok": true, "err": null, "idx": 118, "kind": "heavy"}
+{"ms": 89.3, "ok": true, "err": null, "idx": 119, "kind": "state"}
+{"ms": 49.4, "ok": true, "err": null, "idx": 120, "kind": "static"}
+{"ms": 48.8, "ok": false, "err": "token missing", "idx": 121, "kind": "spa"}
+{"ms": 143.9, "ok": true, "err": null, "idx": 122, "kind": "heavy"}
+{"ms": 89.4, "ok": true, "err": null, "idx": 123, "kind": "state"}
+{"ms": 46.0, "ok": true, "err": null, "idx": 124, "kind": "static"}
+{"ms": 40.2, "ok": false, "err": "token missing", "idx": 125, "kind": "spa"}
+{"ms": 143.2, "ok": true, "err": null, "idx": 126, "kind": "heavy"}
+{"ms": 98.6, "ok": true, "err": null, "idx": 127, "kind": "state"}
+{"ms": 50.8, "ok": true, "err": null, "idx": 128, "kind": "static"}
+{"ms": 43.4, "ok": false, "err": "token missing", "idx": 129, "kind": "spa"}
+{"ms": 130.7, "ok": true, "err": null, "idx": 130, "kind": "heavy"}
+{"ms": 129.9, "ok": true, "err": null, "idx": 131, "kind": "state"}
+{"ms": 67.8, "ok": true, "err": null, "idx": 132, "kind": "static"}
+{"ms": 61.5, "ok": false, "err": "token missing", "idx": 133, "kind": "spa"}
+{"ms": 143.7, "ok": true, "err": null, "idx": 134, "kind": "heavy"}
+{"ms": 86.1, "ok": true, "err": null, "idx": 135, "kind": "state"}
+{"ms": 48.1, "ok": true, "err": null, "idx": 136, "kind": "static"}
+{"ms": 41.8, "ok": false, "err": "token missing", "idx": 137, "kind": "spa"}
+{"ms": 130.3, "ok": true, "err": null, "idx": 138, "kind": "heavy"}
+{"ms": 88.6, "ok": true, "err": null, "idx": 139, "kind": "state"}
+{"ms": 50.5, "ok": true, "err": null, "idx": 140, "kind": "static"}
+{"ms": 46.9, "ok": false, "err": "token missing", "idx": 141, "kind": "spa"}
+{"ms": 133.4, "ok": true, "err": null, "idx": 142, "kind": "heavy"}
+{"ms": 50.4, "ok": true, "err": null, "idx": 143, "kind": "state"}
+{"ms": 52.1, "ok": true, "err": null, "idx": 144, "kind": "static"}
+{"ms": 49.2, "ok": false, "err": "token missing", "idx": 145, "kind": "spa"}
+{"ms": 140.2, "ok": true, "err": null, "idx": 146, "kind": "heavy"}
+{"ms": 87.9, "ok": true, "err": null, "idx": 147, "kind": "state"}
+{"ms": 56.1, "ok": true, "err": null, "idx": 148, "kind": "static"}
+{"ms": 62.1, "ok": false, "err": "token missing", "idx": 149, "kind": "spa"}
+{"ms": 158.0, "ok": true, "err": null, "idx": 150, "kind": "heavy", "mem": 923668480}
+{"ms": 53.3, "ok": true, "err": null, "idx": 151, "kind": "state"}
+{"ms": 50.2, "ok": true, "err": null, "idx": 152, "kind": "static"}
+{"ms": 53.7, "ok": false, "err": "token missing", "idx": 153, "kind": "spa"}
+{"ms": 161.2, "ok": true, "err": null, "idx": 154, "kind": "heavy"}
+{"ms": 105.5, "ok": true, "err": null, "idx": 155, "kind": "state"}
+{"ms": 54.7, "ok": true, "err": null, "idx": 156, "kind": "static"}
+{"ms": 48.0, "ok": false, "err": "token missing", "idx": 157, "kind": "spa"}
+{"ms": 133.6, "ok": true, "err": null, "idx": 158, "kind": "heavy"}
+{"ms": 102.5, "ok": true, "err": null, "idx": 159, "kind": "state"}
+{"ms": 52.1, "ok": true, "err": null, "idx": 160, "kind": "static"}
+{"ms": 48.0, "ok": false, "err": "token missing", "idx": 161, "kind": "spa"}
+{"ms": 130.0, "ok": true, "err": null, "idx": 162, "kind": "heavy"}
+{"ms": 90.0, "ok": true, "err": null, "idx": 163, "kind": "state"}
+{"ms": 53.2, "ok": true, "err": null, "idx": 164, "kind": "static"}
+{"ms": 46.8, "ok": false, "err": "token missing", "idx": 165, "kind": "spa"}
+{"ms": 141.9, "ok": true, "err": null, "idx": 166, "kind": "heavy"}
+{"ms": 89.5, "ok": true, "err": null, "idx": 167, "kind": "state"}
+{"ms": 48.8, "ok": true, "err": null, "idx": 168, "kind": "static"}
+{"ms": 46.8, "ok": false, "err": "token missing", "idx": 169, "kind": "spa"}
+{"ms": 148.2, "ok": true, "err": null, "idx": 170, "kind": "heavy"}
+{"ms": 51.6, "ok": true, "err": null, "idx": 171, "kind": "state"}
+{"ms": 58.2, "ok": true, "err": null, "idx": 172, "kind": "static"}
+{"ms": 50.2, "ok": false, "err": "token missing", "idx": 173, "kind": "spa"}
+{"ms": 191.2, "ok": true, "err": null, "idx": 174, "kind": "heavy"}
+{"ms": 51.6, "ok": true, "err": null, "idx": 175, "kind": "state"}
+{"ms": 57.5, "ok": true, "err": null, "idx": 176, "kind": "static"}
+{"ms": 58.9, "ok": false, "err": "token missing", "idx": 177, "kind": "spa"}
+{"ms": 156.6, "ok": true, "err": null, "idx": 178, "kind": "heavy"}
+{"ms": 99.9, "ok": true, "err": null, "idx": 179, "kind": "state"}
+{"ms": 63.1, "ok": true, "err": null, "idx": 180, "kind": "static"}
+{"ms": 54.0, "ok": false, "err": "token missing", "idx": 181, "kind": "spa"}
+{"ms": 164.9, "ok": true, "err": null, "idx": 182, "kind": "heavy"}
+{"ms": 99.7, "ok": true, "err": null, "idx": 183, "kind": "state"}
+{"ms": 55.9, "ok": true, "err": null, "idx": 184, "kind": "static"}
+{"ms": 50.6, "ok": false, "err": "token missing", "idx": 185, "kind": "spa"}
+{"ms": 196.7, "ok": true, "err": null, "idx": 186, "kind": "heavy"}
+{"ms": 73.1, "ok": true, "err": null, "idx": 187, "kind": "state"}
+{"ms": 70.0, "ok": true, "err": null, "idx": 188, "kind": "static"}
+{"ms": 64.6, "ok": false, "err": "token missing", "idx": 189, "kind": "spa"}
+{"ms": 145.1, "ok": true, "err": null, "idx": 190, "kind": "heavy"}
+{"ms": 91.0, "ok": true, "err": null, "idx": 191, "kind": "state"}
+{"ms": 49.7, "ok": true, "err": null, "idx": 192, "kind": "static"}
+{"ms": 53.9, "ok": false, "err": "token missing", "idx": 193, "kind": "spa"}
+{"ms": 146.4, "ok": true, "err": null, "idx": 194, "kind": "heavy"}
+{"ms": 91.1, "ok": true, "err": null, "idx": 195, "kind": "state"}
+{"ms": 66.3, "ok": true, "err": null, "idx": 196, "kind": "static"}
+{"ms": 60.7, "ok": false, "err": "token missing", "idx": 197, "kind": "spa"}
+{"ms": 165.5, "ok": true, "err": null, "idx": 198, "kind": "heavy"}
+{"ms": 68.6, "ok": true, "err": null, "idx": 199, "kind": "state"}
+{"ms": 79.3, "ok": true, "err": null, "idx": 200, "kind": "static", "mem": 1132068864}
+{"ms": 71.0, "ok": false, "err": "token missing", "idx": 201, "kind": "spa"}
+{"ms": 148.5, "ok": true, "err": null, "idx": 202, "kind": "heavy"}
+{"ms": 99.5, "ok": true, "err": null, "idx": 203, "kind": "state"}
+{"ms": 63.4, "ok": true, "err": null, "idx": 204, "kind": "static"}
+{"ms": 59.8, "ok": false, "err": "token missing", "idx": 205, "kind": "spa"}
+{"ms": 171.2, "ok": true, "err": null, "idx": 206, "kind": "heavy"}
+{"ms": 98.4, "ok": true, "err": null, "idx": 207, "kind": "state"}
+{"ms": 65.0, "ok": true, "err": null, "idx": 208, "kind": "static"}
+{"ms": 62.5, "ok": false, "err": "token missing", "idx": 209, "kind": "spa"}
+{"ms": 152.6, "ok": true, "err": null, "idx": 210, "kind": "heavy"}
+{"ms": 97.8, "ok": true, "err": null, "idx": 211, "kind": "state"}
+{"ms": 58.3, "ok": true, "err": null, "idx": 212, "kind": "static"}
+{"ms": 48.0, "ok": false, "err": "token missing", "idx": 213, "kind": "spa"}
+{"ms": 142.7, "ok": true, "err": null, "idx": 214, "kind": "heavy"}
+{"ms": 105.2, "ok": true, "err": null, "idx": 215, "kind": "state"}
+{"ms": 63.8, "ok": true, "err": null, "idx": 216, "kind": "static"}
+{"ms": 52.3, "ok": false, "err": "token missing", "idx": 217, "kind": "spa"}
+{"ms": 158.0, "ok": true, "err": null, "idx": 218, "kind": "heavy"}
+{"ms": 101.3, "ok": true, "err": null, "idx": 219, "kind": "state"}
+{"ms": 64.3, "ok": true, "err": null, "idx": 220, "kind": "static"}
+{"ms": 57.9, "ok": false, "err": "token missing", "idx": 221, "kind": "spa"}
+{"ms": 157.7, "ok": true, "err": null, "idx": 222, "kind": "heavy"}
+{"ms": 60.6, "ok": true, "err": null, "idx": 223, "kind": "state"}
+{"ms": 62.6, "ok": true, "err": null, "idx": 224, "kind": "static"}
+{"ms": 56.8, "ok": false, "err": "token missing", "idx": 225, "kind": "spa"}
+{"ms": 163.0, "ok": true, "err": null, "idx": 226, "kind": "heavy"}
+{"ms": 59.6, "ok": true, "err": null, "idx": 227, "kind": "state"}
+{"ms": 56.3, "ok": true, "err": null, "idx": 228, "kind": "static"}
+{"ms": 62.2, "ok": false, "err": "token missing", "idx": 229, "kind": "spa"}
+{"ms": 157.6, "ok": true, "err": null, "idx": 230, "kind": "heavy"}
+{"ms": 63.7, "ok": true, "err": null, "idx": 231, "kind": "state"}
+{"ms": 69.8, "ok": true, "err": null, "idx": 232, "kind": "static"}
+{"ms": 58.1, "ok": false, "err": "token missing", "idx": 233, "kind": "spa"}
+{"ms": 153.4, "ok": true, "err": null, "idx": 234, "kind": "heavy"}
+{"ms": 63.7, "ok": true, "err": null, "idx": 235, "kind": "state"}
+{"ms": 64.0, "ok": true, "err": null, "idx": 236, "kind": "static"}
+{"ms": 53.9, "ok": false, "err": "token missing", "idx": 237, "kind": "spa"}
+{"ms": 156.1, "ok": true, "err": null, "idx": 238, "kind": "heavy"}
+{"ms": 62.3, "ok": true, "err": null, "idx": 239, "kind": "state"}
+{"ms": 63.1, "ok": true, "err": null, "idx": 240, "kind": "static"}
+{"ms": 62.6, "ok": false, "err": "token missing", "idx": 241, "kind": "spa"}
+{"ms": 147.0, "ok": true, "err": null, "idx": 242, "kind": "heavy"}
+{"ms": 68.4, "ok": true, "err": null, "idx": 243, "kind": "state"}
+{"ms": 66.3, "ok": true, "err": null, "idx": 244, "kind": "static"}
+{"ms": 65.8, "ok": false, "err": "token missing", "idx": 245, "kind": "spa"}
+{"ms": 160.3, "ok": true, "err": null, "idx": 246, "kind": "heavy"}
+{"ms": 68.5, "ok": true, "err": null, "idx": 247, "kind": "state"}
+{"ms": 66.6, "ok": true, "err": null, "idx": 248, "kind": "static"}
+{"ms": 63.7, "ok": false, "err": "token missing", "idx": 249, "kind": "spa"}
+{"ms": 170.6, "ok": true, "err": null, "idx": 250, "kind": "heavy", "mem": 1219932160}
+{"ms": 63.4, "ok": true, "err": null, "idx": 251, "kind": "state"}
+{"ms": 58.4, "ok": true, "err": null, "idx": 252, "kind": "static"}
+{"ms": 55.5, "ok": false, "err": "token missing", "idx": 253, "kind": "spa"}
+{"ms": 247.7, "ok": true, "err": null, "idx": 254, "kind": "heavy"}
+{"ms": 104.5, "ok": true, "err": null, "idx": 255, "kind": "state"}
+{"ms": 79.0, "ok": true, "err": null, "idx": 256, "kind": "static"}
+{"ms": 80.7, "ok": false, "err": "token missing", "idx": 257, "kind": "spa"}
+{"ms": 161.6, "ok": true, "err": null, "idx": 258, "kind": "heavy"}
+{"ms": 128.6, "ok": true, "err": null, "idx": 259, "kind": "state"}
+{"ms": 75.9, "ok": true, "err": null, "idx": 260, "kind": "static"}
+{"ms": 66.3, "ok": false, "err": "token missing", "idx": 261, "kind": "spa"}
+{"ms": 146.9, "ok": true, "err": null, "idx": 262, "kind": "heavy"}
+{"ms": 67.8, "ok": true, "err": null, "idx": 263, "kind": "state"}
+{"ms": 65.6, "ok": true, "err": null, "idx": 264, "kind": "static"}
+{"ms": 62.8, "ok": false, "err": "token missing", "idx": 265, "kind": "spa"}
+{"ms": 165.0, "ok": true, "err": null, "idx": 266, "kind": "heavy"}
+{"ms": 67.0, "ok": true, "err": null, "idx": 267, "kind": "state"}
+{"ms": 59.9, "ok": true, "err": null, "idx": 268, "kind": "static"}
+{"ms": 58.8, "ok": false, "err": "token missing", "idx": 269, "kind": "spa"}
+{"ms": 139.2, "ok": true, "err": null, "idx": 270, "kind": "heavy"}
+{"ms": 98.5, "ok": true, "err": null, "idx": 271, "kind": "state"}
+{"ms": 65.7, "ok": true, "err": null, "idx": 272, "kind": "static"}
+{"ms": 74.6, "ok": false, "err": "token missing", "idx": 273, "kind": "spa"}
+{"ms": 153.3, "ok": true, "err": null, "idx": 274, "kind": "heavy"}
+{"ms": 59.5, "ok": true, "err": null, "idx": 275, "kind": "state"}
+{"ms": 64.2, "ok": true, "err": null, "idx": 276, "kind": "static"}
+{"ms": 54.1, "ok": false, "err": "token missing", "idx": 277, "kind": "spa"}
+{"ms": 147.6, "ok": true, "err": null, "idx": 278, "kind": "heavy"}
+{"ms": 117.3, "ok": true, "err": null, "idx": 279, "kind": "state"}
+{"ms": 62.3, "ok": true, "err": null, "idx": 280, "kind": "static"}
+{"ms": 59.4, "ok": false, "err": "token missing", "idx": 281, "kind": "spa"}
+{"ms": 156.6, "ok": true, "err": null, "idx": 282, "kind": "heavy"}
+{"ms": 55.5, "ok": true, "err": null, "idx": 283, "kind": "state"}
+{"ms": 62.5, "ok": true, "err": null, "idx": 284, "kind": "static"}
+{"ms": 55.8, "ok": false, "err": "token missing", "idx": 285, "kind": "spa"}
+{"ms": 149.8, "ok": true, "err": null, "idx": 286, "kind": "heavy"}
+{"ms": 113.4, "ok": true, "err": null, "idx": 287, "kind": "state"}
+{"ms": 63.2, "ok": true, "err": null, "idx": 288, "kind": "static"}
+{"ms": 61.9, "ok": false, "err": "token missing", "idx": 289, "kind": "spa"}
+{"ms": 151.8, "ok": true, "err": null, "idx": 290, "kind": "heavy"}
+{"ms": 62.1, "ok": true, "err": null, "idx": 291, "kind": "state"}
+{"ms": 64.1, "ok": true, "err": null, "idx": 292, "kind": "static"}
+{"ms": 52.8, "ok": false, "err": "token missing", "idx": 293, "kind": "spa"}
+{"ms": 166.2, "ok": true, "err": null, "idx": 294, "kind": "heavy"}
+{"ms": 101.0, "ok": true, "err": null, "idx": 295, "kind": "state"}
+{"ms": 67.2, "ok": true, "err": null, "idx": 296, "kind": "static"}
+{"ms": 64.5, "ok": false, "err": "token missing", "idx": 297, "kind": "spa"}
+{"ms": 154.5, "ok": true, "err": null, "idx": 298, "kind": "heavy"}
+{"ms": 62.3, "ok": true, "err": null, "idx": 299, "kind": "state"}
+{"ms": 66.5, "ok": true, "err": null, "idx": 300, "kind": "static", "mem": 1239961600}
+{"ms": 68.8, "ok": false, "err": "token missing", "idx": 301, "kind": "spa"}
+{"ms": 156.2, "ok": true, "err": null, "idx": 302, "kind": "heavy"}
+{"ms": 62.3, "ok": true, "err": null, "idx": 303, "kind": "state"}
+{"ms": 66.0, "ok": true, "err": null, "idx": 304, "kind": "static"}
+{"ms": 65.3, "ok": false, "err": "token missing", "idx": 305, "kind": "spa"}
+{"ms": 155.4, "ok": true, "err": null, "idx": 306, "kind": "heavy"}
+{"ms": 64.3, "ok": true, "err": null, "idx": 307, "kind": "state"}
+{"ms": 63.6, "ok": true, "err": null, "idx": 308, "kind": "static"}
+{"ms": 62.5, "ok": false, "err": "token missing", "idx": 309, "kind": "spa"}
+{"ms": 153.4, "ok": true, "err": null, "idx": 310, "kind": "heavy"}
+{"ms": 102.9, "ok": true, "err": null, "idx": 311, "kind": "state"}
+{"ms": 61.4, "ok": true, "err": null, "idx": 312, "kind": "static"}
+{"ms": 63.0, "ok": false, "err": "token missing", "idx": 313, "kind": "spa"}
+{"ms": 152.3, "ok": true, "err": null, "idx": 314, "kind": "heavy"}
+{"ms": 100.7, "ok": true, "err": null, "idx": 315, "kind": "state"}
+{"ms": 65.8, "ok": true, "err": null, "idx": 316, "kind": "static"}
+{"ms": 60.8, "ok": false, "err": "token missing", "idx": 317, "kind": "spa"}
+{"ms": 157.5, "ok": true, "err": null, "idx": 318, "kind": "heavy"}
+{"ms": 103.0, "ok": true, "err": null, "idx": 319, "kind": "state"}
+{"ms": 67.4, "ok": true, "err": null, "idx": 320, "kind": "static"}
+{"ms": 64.3, "ok": false, "err": "token missing", "idx": 321, "kind": "spa"}
+{"ms": 171.7, "ok": true, "err": null, "idx": 322, "kind": "heavy"}
+{"ms": 203.9, "ok": true, "err": null, "idx": 323, "kind": "state"}
+{"ms": 92.8, "ok": true, "err": null, "idx": 324, "kind": "static"}
+{"ms": 77.7, "ok": false, "err": "token missing", "idx": 325, "kind": "spa"}
+{"ms": 193.4, "ok": true, "err": null, "idx": 326, "kind": "heavy"}
+{"ms": 119.5, "ok": true, "err": null, "idx": 327, "kind": "state"}
+{"ms": 84.0, "ok": true, "err": null, "idx": 328, "kind": "static"}
+{"ms": 67.1, "ok": false, "err": "token missing", "idx": 329, "kind": "spa"}
+{"ms": 150.8, "ok": true, "err": null, "idx": 330, "kind": "heavy"}
+{"ms": 100.8, "ok": true, "err": null, "idx": 331, "kind": "state"}
+{"ms": 65.8, "ok": true, "err": null, "idx": 332, "kind": "static"}
+{"ms": 65.0, "ok": false, "err": "token missing", "idx": 333, "kind": "spa"}
+{"ms": 152.2, "ok": true, "err": null, "idx": 334, "kind": "heavy"}
+{"ms": 107.9, "ok": true, "err": null, "idx": 335, "kind": "state"}
+{"ms": 66.5, "ok": true, "err": null, "idx": 336, "kind": "static"}
+{"ms": 63.5, "ok": false, "err": "token missing", "idx": 337, "kind": "spa"}
+{"ms": 148.4, "ok": true, "err": null, "idx": 338, "kind": "heavy"}
+{"ms": 63.0, "ok": true, "err": null, "idx": 339, "kind": "state"}
+{"ms": 66.0, "ok": true, "err": null, "idx": 340, "kind": "static"}
+{"ms": 60.3, "ok": false, "err": "token missing", "idx": 341, "kind": "spa"}
+{"ms": 170.4, "ok": true, "err": null, "idx": 342, "kind": "heavy"}
+{"ms": 119.7, "ok": true, "err": null, "idx": 343, "kind": "state"}
+{"ms": 74.6, "ok": true, "err": null, "idx": 344, "kind": "static"}
+{"ms": 64.1, "ok": false, "err": "token missing", "idx": 345, "kind": "spa"}
+{"ms": 154.9, "ok": true, "err": null, "idx": 346, "kind": "heavy"}
+{"ms": 68.1, "ok": true, "err": null, "idx": 347, "kind": "state"}
+{"ms": 69.5, "ok": true, "err": null, "idx": 348, "kind": "static"}
+{"ms": 86.3, "ok": false, "err": "token missing", "idx": 349, "kind": "spa"}
+{"ms": 202.2, "ok": true, "err": null, "idx": 350, "kind": "heavy", "mem": 1292140544}
+{"ms": 82.2, "ok": true, "err": null, "idx": 351, "kind": "state"}
+{"ms": 74.5, "ok": true, "err": null, "idx": 352, "kind": "static"}
+{"ms": 66.8, "ok": false, "err": "token missing", "idx": 353, "kind": "spa"}
+{"ms": 148.8, "ok": true, "err": null, "idx": 354, "kind": "heavy"}
+{"ms": 64.0, "ok": true, "err": null, "idx": 355, "kind": "state"}
+{"ms": 73.6, "ok": true, "err": null, "idx": 356, "kind": "static"}
+{"ms": 68.7, "ok": false, "err": "token missing", "idx": 357, "kind": "spa"}
+{"ms": 174.3, "ok": true, "err": null, "idx": 358, "kind": "heavy"}
+{"ms": 64.1, "ok": true, "err": null, "idx": 359, "kind": "state"}
+{"ms": 73.3, "ok": true, "err": null, "idx": 360, "kind": "static"}
+{"ms": 62.1, "ok": false, "err": "token missing", "idx": 361, "kind": "spa"}
+{"ms": 153.6, "ok": true, "err": null, "idx": 362, "kind": "heavy"}
+{"ms": 66.1, "ok": true, "err": null, "idx": 363, "kind": "state"}
+{"ms": 71.8, "ok": true, "err": null, "idx": 364, "kind": "static"}
+{"ms": 70.6, "ok": false, "err": "token missing", "idx": 365, "kind": "spa"}
+{"ms": 184.1, "ok": true, "err": null, "idx": 366, "kind": "heavy"}
+{"ms": 115.1, "ok": true, "err": null, "idx": 367, "kind": "state"}
+{"ms": 69.5, "ok": true, "err": null, "idx": 368, "kind": "static"}
+{"ms": 63.7, "ok": false, "err": "token missing", "idx": 369, "kind": "spa"}
+{"ms": 159.2, "ok": true, "err": null, "idx": 370, "kind": "heavy"}
+{"ms": 104.0, "ok": true, "err": null, "idx": 371, "kind": "state"}
+{"ms": 74.8, "ok": true, "err": null, "idx": 372, "kind": "static"}
+{"ms": 75.1, "ok": false, "err": "token missing", "idx": 373, "kind": "spa"}
+{"ms": 146.9, "ok": true, "err": null, "idx": 374, "kind": "heavy"}
+{"ms": 66.7, "ok": true, "err": null, "idx": 375, "kind": "state"}
+{"ms": 72.2, "ok": true, "err": null, "idx": 376, "kind": "static"}
+{"ms": 69.4, "ok": false, "err": "token missing", "idx": 377, "kind": "spa"}
+{"ms": 166.1, "ok": true, "err": null, "idx": 378, "kind": "heavy"}
+{"ms": 106.9, "ok": true, "err": null, "idx": 379, "kind": "state"}
+{"ms": 70.1, "ok": true, "err": null, "idx": 380, "kind": "static"}
+{"ms": 71.0, "ok": false, "err": "token missing", "idx": 381, "kind": "spa"}
+{"ms": 160.7, "ok": true, "err": null, "idx": 382, "kind": "heavy"}
+{"ms": 113.8, "ok": true, "err": null, "idx": 383, "kind": "state"}
+{"ms": 68.2, "ok": true, "err": null, "idx": 384, "kind": "static"}
+{"ms": 66.5, "ok": false, "err": "token missing", "idx": 385, "kind": "spa"}
+{"ms": 166.6, "ok": true, "err": null, "idx": 386, "kind": "heavy"}
+{"ms": 72.3, "ok": true, "err": null, "idx": 387, "kind": "state"}
+{"ms": 79.8, "ok": true, "err": null, "idx": 388, "kind": "static"}
+{"ms": 84.1, "ok": false, "err": "token missing", "idx": 389, "kind": "spa"}
+{"ms": 166.6, "ok": true, "err": null, "idx": 390, "kind": "heavy"}
+{"ms": 124.8, "ok": true, "err": null, "idx": 391, "kind": "state"}
+{"ms": 76.6, "ok": true, "err": null, "idx": 392, "kind": "static"}
+{"ms": 74.3, "ok": false, "err": "token missing", "idx": 393, "kind": "spa"}
+{"ms": 182.3, "ok": true, "err": null, "idx": 394, "kind": "heavy"}
+{"ms": 116.0, "ok": true, "err": null, "idx": 395, "kind": "state"}
+{"ms": 74.6, "ok": true, "err": null, "idx": 396, "kind": "static"}
+{"ms": 66.1, "ok": false, "err": "token missing", "idx": 397, "kind": "spa"}
+{"ms": 157.5, "ok": true, "err": null, "idx": 398, "kind": "heavy"}
+{"ms": 210.8, "ok": true, "err": null, "idx": 399, "kind": "state"}
+{"ms": 96.1, "ok": true, "err": null, "idx": 400, "kind": "static", "mem": 1417900032}
+{"ms": 77.6, "ok": false, "err": "token missing", "idx": 401, "kind": "spa"}
+{"ms": 167.8, "ok": true, "err": null, "idx": 402, "kind": "heavy"}
+{"ms": 88.7, "ok": true, "err": null, "idx": 403, "kind": "state"}
+{"ms": 93.2, "ok": true, "err": null, "idx": 404, "kind": "static"}
+{"ms": 77.2, "ok": false, "err": "token missing", "idx": 405, "kind": "spa"}
+{"ms": 164.2, "ok": true, "err": null, "idx": 406, "kind": "heavy"}
+{"ms": 123.5, "ok": true, "err": null, "idx": 407, "kind": "state"}
+{"ms": 82.4, "ok": true, "err": null, "idx": 408, "kind": "static"}
+{"ms": 75.2, "ok": false, "err": "token missing", "idx": 409, "kind": "spa"}
+{"ms": 159.6, "ok": true, "err": null, "idx": 410, "kind": "heavy"}
+{"ms": 111.0, "ok": true, "err": null, "idx": 411, "kind": "state"}
+{"ms": 78.0, "ok": true, "err": null, "idx": 412, "kind": "static"}
+{"ms": 70.0, "ok": false, "err": "token missing", "idx": 413, "kind": "spa"}
+{"ms": 167.3, "ok": true, "err": null, "idx": 414, "kind": "heavy"}
+{"ms": 77.6, "ok": true, "err": null, "idx": 415, "kind": "state"}
+{"ms": 79.8, "ok": true, "err": null, "idx": 416, "kind": "static"}
+{"ms": 73.7, "ok": false, "err": "token missing", "idx": 417, "kind": "spa"}
+{"ms": 149.3, "ok": true, "err": null, "idx": 418, "kind": "heavy"}
+{"ms": 72.3, "ok": true, "err": null, "idx": 419, "kind": "state"}
+{"ms": 79.9, "ok": true, "err": null, "idx": 420, "kind": "static"}
+{"ms": 80.0, "ok": false, "err": "token missing", "idx": 421, "kind": "spa"}
+{"ms": 160.4, "ok": true, "err": null, "idx": 422, "kind": "heavy"}
+{"ms": 119.6, "ok": true, "err": null, "idx": 423, "kind": "state"}
+{"ms": 71.1, "ok": true, "err": null, "idx": 424, "kind": "static"}
+{"ms": 70.3, "ok": false, "err": "token missing", "idx": 425, "kind": "spa"}
+{"ms": 162.0, "ok": true, "err": null, "idx": 426, "kind": "heavy"}
+{"ms": 110.6, "ok": true, "err": null, "idx": 427, "kind": "state"}
+{"ms": 73.9, "ok": true, "err": null, "idx": 428, "kind": "static"}
+{"ms": 74.8, "ok": false, "err": "token missing", "idx": 429, "kind": "spa"}
+{"ms": 215.0, "ok": true, "err": null, "idx": 430, "kind": "heavy"}
+{"ms": 117.8, "ok": true, "err": null, "idx": 431, "kind": "state"}
+{"ms": 81.8, "ok": true, "err": null, "idx": 432, "kind": "static"}
+{"ms": 74.1, "ok": false, "err": "token missing", "idx": 433, "kind": "spa"}
+{"ms": 164.1, "ok": true, "err": null, "idx": 434, "kind": "heavy"}
+{"ms": 129.0, "ok": true, "err": null, "idx": 435, "kind": "state"}
+{"ms": 79.2, "ok": true, "err": null, "idx": 436, "kind": "static"}
+{"ms": 75.6, "ok": false, "err": "token missing", "idx": 437, "kind": "spa"}
+{"ms": 162.9, "ok": true, "err": null, "idx": 438, "kind": "heavy"}
+{"ms": 74.3, "ok": true, "err": null, "idx": 439, "kind": "state"}
+{"ms": 76.5, "ok": true, "err": null, "idx": 440, "kind": "static"}
+{"ms": 71.1, "ok": false, "err": "token missing", "idx": 441, "kind": "spa"}
+{"ms": 153.8, "ok": true, "err": null, "idx": 442, "kind": "heavy"}
+{"ms": 108.5, "ok": true, "err": null, "idx": 443, "kind": "state"}
+{"ms": 76.9, "ok": true, "err": null, "idx": 444, "kind": "static"}
+{"ms": 78.8, "ok": false, "err": "token missing", "idx": 445, "kind": "spa"}
+{"ms": 154.8, "ok": true, "err": null, "idx": 446, "kind": "heavy"}
+{"ms": 111.1, "ok": true, "err": null, "idx": 447, "kind": "state"}
+{"ms": 78.1, "ok": true, "err": null, "idx": 448, "kind": "static"}
+{"ms": 79.5, "ok": false, "err": "token missing", "idx": 449, "kind": "spa"}
+{"ms": 171.5, "ok": true, "err": null, "idx": 450, "kind": "heavy", "mem": 1416613888}
+{"ms": 81.8, "ok": true, "err": null, "idx": 451, "kind": "state"}
+{"ms": 81.5, "ok": true, "err": null, "idx": 452, "kind": "static"}
+{"ms": 85.0, "ok": false, "err": "token missing", "idx": 453, "kind": "spa"}
+{"ms": 167.5, "ok": true, "err": null, "idx": 454, "kind": "heavy"}
+{"ms": 120.2, "ok": true, "err": null, "idx": 455, "kind": "state"}
+{"ms": 88.4, "ok": true, "err": null, "idx": 456, "kind": "static"}
+{"ms": 83.9, "ok": false, "err": "token missing", "idx": 457, "kind": "spa"}
+{"ms": 162.7, "ok": true, "err": null, "idx": 458, "kind": "heavy"}
+{"ms": 121.8, "ok": true, "err": null, "idx": 459, "kind": "state"}
+{"ms": 89.8, "ok": true, "err": null, "idx": 460, "kind": "static"}
+{"ms": 83.2, "ok": false, "err": "token missing", "idx": 461, "kind": "spa"}
+{"ms": 165.3, "ok": true, "err": null, "idx": 462, "kind": "heavy"}
+{"ms": 117.1, "ok": true, "err": null, "idx": 463, "kind": "state"}
+{"ms": 83.6, "ok": true, "err": null, "idx": 464, "kind": "static"}
+{"ms": 84.8, "ok": false, "err": "token missing", "idx": 465, "kind": "spa"}
+{"ms": 178.2, "ok": true, "err": null, "idx": 466, "kind": "heavy"}
+{"ms": 86.9, "ok": true, "err": null, "idx": 467, "kind": "state"}
+{"ms": 90.6, "ok": true, "err": null, "idx": 468, "kind": "static"}
+{"ms": 78.5, "ok": false, "err": "token missing", "idx": 469, "kind": "spa"}
+{"ms": 176.9, "ok": true, "err": null, "idx": 470, "kind": "heavy"}
+{"ms": 85.7, "ok": true, "err": null, "idx": 471, "kind": "state"}
+{"ms": 86.0, "ok": true, "err": null, "idx": 472, "kind": "static"}
+{"ms": 77.3, "ok": false, "err": "token missing", "idx": 473, "kind": "spa"}
+{"ms": 160.0, "ok": true, "err": null, "idx": 474, "kind": "heavy"}
+{"ms": 129.6, "ok": true, "err": null, "idx": 475, "kind": "state"}
+{"ms": 88.2, "ok": true, "err": null, "idx": 476, "kind": "static"}
+{"ms": 90.0, "ok": false, "err": "token missing", "idx": 477, "kind": "spa"}
+{"ms": 280.2, "ok": true, "err": null, "idx": 478, "kind": "heavy"}
+{"ms": 108.3, "ok": true, "err": null, "idx": 479, "kind": "state"}
+{"ms": 100.5, "ok": true, "err": null, "idx": 480, "kind": "static"}
+{"ms": 95.6, "ok": false, "err": "token missing", "idx": 481, "kind": "spa"}
+{"ms": 177.9, "ok": true, "err": null, "idx": 482, "kind": "heavy"}
+{"ms": 97.9, "ok": true, "err": null, "idx": 483, "kind": "state"}
+{"ms": 90.9, "ok": true, "err": null, "idx": 484, "kind": "static"}
+{"ms": 84.8, "ok": false, "err": "token missing", "idx": 485, "kind": "spa"}
+{"ms": 172.0, "ok": true, "err": null, "idx": 486, "kind": "heavy"}
+{"ms": 113.5, "ok": true, "err": null, "idx": 487, "kind": "state"}
+{"ms": 89.2, "ok": true, "err": null, "idx": 488, "kind": "static"}
+{"ms": 75.9, "ok": false, "err": "token missing", "idx": 489, "kind": "spa"}
+{"ms": 190.3, "ok": true, "err": null, "idx": 490, "kind": "heavy"}
+{"ms": 116.3, "ok": true, "err": null, "idx": 491, "kind": "state"}
+{"ms": 90.5, "ok": true, "err": null, "idx": 492, "kind": "static"}
+{"ms": 80.3, "ok": false, "err": "token missing", "idx": 493, "kind": "spa"}
+{"ms": 175.1, "ok": true, "err": null, "idx": 494, "kind": "heavy"}
+{"ms": 139.7, "ok": true, "err": null, "idx": 495, "kind": "state"}
+{"ms": 87.3, "ok": true, "err": null, "idx": 496, "kind": "static"}
+{"ms": 83.2, "ok": false, "err": "token missing", "idx": 497, "kind": "spa"}
+{"ms": 173.7, "ok": true, "err": null, "idx": 498, "kind": "heavy"}
+{"ms": 120.6, "ok": true, "err": null, "idx": 499, "kind": "state"}
+{"ms": 83.9, "ok": true, "err": null, "idx": 500, "kind": "static", "mem": 1487151104}
+{"ms": 83.7, "ok": false, "err": "token missing", "idx": 501, "kind": "spa"}
+{"ms": 202.0, "ok": true, "err": null, "idx": 502, "kind": "heavy"}
+{"ms": 132.8, "ok": true, "err": null, "idx": 503, "kind": "state"}
+{"ms": 93.1, "ok": true, "err": null, "idx": 504, "kind": "static"}
+{"ms": 82.7, "ok": false, "err": "token missing", "idx": 505, "kind": "spa"}
+{"ms": 164.7, "ok": true, "err": null, "idx": 506, "kind": "heavy"}
+{"ms": 128.1, "ok": true, "err": null, "idx": 507, "kind": "state"}
+{"ms": 96.9, "ok": true, "err": null, "idx": 508, "kind": "static"}
+{"ms": 90.7, "ok": false, "err": "token missing", "idx": 509, "kind": "spa"}
+{"ms": 177.5, "ok": true, "err": null, "idx": 510, "kind": "heavy"}
+{"ms": 119.5, "ok": true, "err": null, "idx": 511, "kind": "state"}
+{"ms": 87.0, "ok": true, "err": null, "idx": 512, "kind": "static"}
+{"ms": 86.9, "ok": false, "err": "token missing", "idx": 513, "kind": "spa"}
+{"ms": 175.2, "ok": true, "err": null, "idx": 514, "kind": "heavy"}
+{"ms": 127.4, "ok": true, "err": null, "idx": 515, "kind": "state"}
+{"ms": 91.1, "ok": true, "err": null, "idx": 516, "kind": "static"}
+{"ms": 89.8, "ok": false, "err": "token missing", "idx": 517, "kind": "spa"}
+{"ms": 170.1, "ok": true, "err": null, "idx": 518, "kind": "heavy"}
+{"ms": 121.1, "ok": true, "err": null, "idx": 519, "kind": "state"}
+{"ms": 87.1, "ok": true, "err": null, "idx": 520, "kind": "static"}
+{"ms": 78.0, "ok": false, "err": "token missing", "idx": 521, "kind": "spa"}
+{"ms": 165.9, "ok": true, "err": null, "idx": 522, "kind": "heavy"}
+{"ms": 123.4, "ok": true, "err": null, "idx": 523, "kind": "state"}
+{"ms": 88.4, "ok": true, "err": null, "idx": 524, "kind": "static"}
+{"ms": 84.7, "ok": false, "err": "token missing", "idx": 525, "kind": "spa"}
+{"ms": 180.9, "ok": true, "err": null, "idx": 526, "kind": "heavy"}
+{"ms": 139.3, "ok": true, "err": null, "idx": 527, "kind": "state"}
+{"ms": 87.8, "ok": true, "err": null, "idx": 528, "kind": "static"}
+{"ms": 82.4, "ok": false, "err": "token missing", "idx": 529, "kind": "spa"}
+{"ms": 160.1, "ok": true, "err": null, "idx": 530, "kind": "heavy"}
+{"ms": 126.8, "ok": true, "err": null, "idx": 531, "kind": "state"}
+{"ms": 93.0, "ok": true, "err": null, "idx": 532, "kind": "static"}
+{"ms": 85.8, "ok": false, "err": "token missing", "idx": 533, "kind": "spa"}
+{"ms": 176.8, "ok": true, "err": null, "idx": 534, "kind": "heavy"}
+{"ms": 124.4, "ok": true, "err": null, "idx": 535, "kind": "state"}
+{"ms": 90.6, "ok": true, "err": null, "idx": 536, "kind": "static"}
+{"ms": 101.0, "ok": false, "err": "token missing", "idx": 537, "kind": "spa"}
+{"ms": 201.4, "ok": true, "err": null, "idx": 538, "kind": "heavy"}
+{"ms": 124.7, "ok": true, "err": null, "idx": 539, "kind": "state"}
+{"ms": 86.1, "ok": true, "err": null, "idx": 540, "kind": "static"}
+{"ms": 83.8, "ok": false, "err": "token missing", "idx": 541, "kind": "spa"}
+{"ms": 167.3, "ok": true, "err": null, "idx": 542, "kind": "heavy"}
+{"ms": 126.6, "ok": true, "err": null, "idx": 543, "kind": "state"}
+{"ms": 89.4, "ok": true, "err": null, "idx": 544, "kind": "static"}
+{"ms": 89.7, "ok": false, "err": "token missing", "idx": 545, "kind": "spa"}
+{"ms": 198.5, "ok": true, "err": null, "idx": 546, "kind": "heavy"}
+{"ms": 125.3, "ok": true, "err": null, "idx": 547, "kind": "state"}
+{"ms": 89.4, "ok": true, "err": null, "idx": 548, "kind": "static"}
+{"ms": 90.1, "ok": false, "err": "token missing", "idx": 549, "kind": "spa"}
+{"ms": 196.5, "ok": true, "err": null, "idx": 550, "kind": "heavy", "mem": 1471561728}
+{"ms": 87.1, "ok": true, "err": null, "idx": 551, "kind": "state"}
+{"ms": 90.5, "ok": true, "err": null, "idx": 552, "kind": "static"}
+{"ms": 89.1, "ok": false, "err": "token missing", "idx": 553, "kind": "spa"}
+{"ms": 172.3, "ok": true, "err": null, "idx": 554, "kind": "heavy"}
+{"ms": 93.5, "ok": true, "err": null, "idx": 555, "kind": "state"}
+{"ms": 92.9, "ok": true, "err": null, "idx": 556, "kind": "static"}
+{"ms": 154.2, "ok": false, "err": "token missing", "idx": 557, "kind": "spa"}
+{"ms": 215.2, "ok": true, "err": null, "idx": 558, "kind": "heavy"}
+{"ms": 105.0, "ok": true, "err": null, "idx": 559, "kind": "state"}
+{"ms": 105.9, "ok": true, "err": null, "idx": 560, "kind": "static"}
+{"ms": 99.6, "ok": false, "err": "token missing", "idx": 561, "kind": "spa"}
+{"ms": 184.7, "ok": true, "err": null, "idx": 562, "kind": "heavy"}
+{"ms": 112.9, "ok": true, "err": null, "idx": 563, "kind": "state"}
+{"ms": 105.9, "ok": true, "err": null, "idx": 564, "kind": "static"}
+{"ms": 88.4, "ok": false, "err": "token missing", "idx": 565, "kind": "spa"}
+{"ms": 177.6, "ok": true, "err": null, "idx": 566, "kind": "heavy"}
+{"ms": 96.3, "ok": true, "err": null, "idx": 567, "kind": "state"}
+{"ms": 96.6, "ok": true, "err": null, "idx": 568, "kind": "static"}
+{"ms": 99.4, "ok": false, "err": "token missing", "idx": 569, "kind": "spa"}
+{"ms": 177.5, "ok": true, "err": null, "idx": 570, "kind": "heavy"}
+{"ms": 129.3, "ok": true, "err": null, "idx": 571, "kind": "state"}
+{"ms": 92.5, "ok": true, "err": null, "idx": 572, "kind": "static"}
+{"ms": 91.6, "ok": false, "err": "token missing", "idx": 573, "kind": "spa"}
+{"ms": 168.7, "ok": true, "err": null, "idx": 574, "kind": "heavy"}
+{"ms": 126.8, "ok": true, "err": null, "idx": 575, "kind": "state"}
+{"ms": 92.0, "ok": true, "err": null, "idx": 576, "kind": "static"}
+{"ms": 89.8, "ok": false, "err": "token missing", "idx": 577, "kind": "spa"}
+{"ms": 182.7, "ok": true, "err": null, "idx": 578, "kind": "heavy"}
+{"ms": 132.6, "ok": true, "err": null, "idx": 579, "kind": "state"}
+{"ms": 90.4, "ok": true, "err": null, "idx": 580, "kind": "static"}
+{"ms": 91.1, "ok": false, "err": "token missing", "idx": 581, "kind": "spa"}
+{"ms": 191.9, "ok": true, "err": null, "idx": 582, "kind": "heavy"}
+{"ms": 123.9, "ok": true, "err": null, "idx": 583, "kind": "state"}
+{"ms": 97.2, "ok": true, "err": null, "idx": 584, "kind": "static"}
+{"ms": 93.7, "ok": false, "err": "token missing", "idx": 585, "kind": "spa"}
+{"ms": 178.6, "ok": true, "err": null, "idx": 586, "kind": "heavy"}
+{"ms": 128.2, "ok": true, "err": null, "idx": 587, "kind": "state"}
+{"ms": 93.2, "ok": true, "err": null, "idx": 588, "kind": "static"}
+{"ms": 94.8, "ok": false, "err": "token missing", "idx": 589, "kind": "spa"}
+{"ms": 171.1, "ok": true, "err": null, "idx": 590, "kind": "heavy"}
+{"ms": 139.9, "ok": true, "err": null, "idx": 591, "kind": "state"}
+{"ms": 92.9, "ok": true, "err": null, "idx": 592, "kind": "static"}
+{"ms": 88.6, "ok": false, "err": "token missing", "idx": 593, "kind": "spa"}
+{"ms": 174.2, "ok": true, "err": null, "idx": 594, "kind": "heavy"}
+{"ms": 124.0, "ok": true, "err": null, "idx": 595, "kind": "state"}
+{"ms": 95.3, "ok": true, "err": null, "idx": 596, "kind": "static"}
+{"ms": 83.6, "ok": false, "err": "token missing", "idx": 597, "kind": "spa"}
+{"ms": 179.4, "ok": true, "err": null, "idx": 598, "kind": "heavy"}
+{"ms": 158.0, "ok": true, "err": null, "idx": 599, "kind": "state"}
+{"ms": 121.2, "ok": true, "err": null, "idx": 600, "kind": "static", "mem": 1502580736}
+{"ms": 118.8, "ok": false, "err": "token missing", "idx": 601, "kind": "spa"}
+{"ms": 202.0, "ok": true, "err": null, "idx": 602, "kind": "heavy"}
+{"ms": 151.8, "ok": true, "err": null, "idx": 603, "kind": "state"}
+{"ms": 100.1, "ok": true, "err": null, "idx": 604, "kind": "static"}
+{"ms": 87.2, "ok": false, "err": "token missing", "idx": 605, "kind": "spa"}
+{"ms": 185.5, "ok": true, "err": null, "idx": 606, "kind": "heavy"}
+{"ms": 136.5, "ok": true, "err": null, "idx": 607, "kind": "state"}
+{"ms": 94.6, "ok": true, "err": null, "idx": 608, "kind": "static"}
+{"ms": 93.5, "ok": false, "err": "token missing", "idx": 609, "kind": "spa"}
+{"ms": 179.4, "ok": true, "err": null, "idx": 610, "kind": "heavy"}
+{"ms": 139.7, "ok": true, "err": null, "idx": 611, "kind": "state"}
+{"ms": 96.8, "ok": true, "err": null, "idx": 612, "kind": "static"}
+{"ms": 89.9, "ok": false, "err": "token missing", "idx": 613, "kind": "spa"}
+{"ms": 175.4, "ok": true, "err": null, "idx": 614, "kind": "heavy"}
+{"ms": 131.4, "ok": true, "err": null, "idx": 615, "kind": "state"}
+{"ms": 99.9, "ok": true, "err": null, "idx": 616, "kind": "static"}
+{"ms": 92.5, "ok": false, "err": "token missing", "idx": 617, "kind": "spa"}
+{"ms": 181.9, "ok": true, "err": null, "idx": 618, "kind": "heavy"}
+{"ms": 97.1, "ok": true, "err": null, "idx": 619, "kind": "state"}
+{"ms": 106.7, "ok": true, "err": null, "idx": 620, "kind": "static"}
+{"ms": 108.3, "ok": false, "err": "token missing", "idx": 621, "kind": "spa"}
+{"ms": 191.6, "ok": true, "err": null, "idx": 622, "kind": "heavy"}
+{"ms": 138.0, "ok": true, "err": null, "idx": 623, "kind": "state"}
+{"ms": 100.1, "ok": true, "err": null, "idx": 624, "kind": "static"}
+{"ms": 89.6, "ok": false, "err": "token missing", "idx": 625, "kind": "spa"}
+{"ms": 175.9, "ok": true, "err": null, "idx": 626, "kind": "heavy"}
+{"ms": 135.4, "ok": true, "err": null, "idx": 627, "kind": "state"}
+{"ms": 95.8, "ok": true, "err": null, "idx": 628, "kind": "static"}
+{"ms": 95.9, "ok": false, "err": "token missing", "idx": 629, "kind": "spa"}
+{"ms": 172.6, "ok": true, "err": null, "idx": 630, "kind": "heavy"}
+{"ms": 134.6, "ok": true, "err": null, "idx": 631, "kind": "state"}
+{"ms": 94.9, "ok": true, "err": null, "idx": 632, "kind": "static"}
+{"ms": 94.8, "ok": false, "err": "token missing", "idx": 633, "kind": "spa"}
+{"ms": 179.4, "ok": true, "err": null, "idx": 634, "kind": "heavy"}
+{"ms": 127.8, "ok": true, "err": null, "idx": 635, "kind": "state"}
+{"ms": 97.4, "ok": true, "err": null, "idx": 636, "kind": "static"}
+{"ms": 106.4, "ok": false, "err": "token missing", "idx": 637, "kind": "spa"}
+{"ms": 317.2, "ok": true, "err": null, "idx": 638, "kind": "heavy"}
+{"ms": 116.7, "ok": true, "err": null, "idx": 639, "kind": "state"}
+{"ms": 109.0, "ok": true, "err": null, "idx": 640, "kind": "static"}
+{"ms": 110.7, "ok": false, "err": "token missing", "idx": 641, "kind": "spa"}
+{"ms": 195.5, "ok": true, "err": null, "idx": 642, "kind": "heavy"}
+{"ms": 107.2, "ok": true, "err": null, "idx": 643, "kind": "state"}
+{"ms": 114.7, "ok": true, "err": null, "idx": 644, "kind": "static"}
+{"ms": 98.6, "ok": false, "err": "token missing", "idx": 645, "kind": "spa"}
+{"ms": 185.9, "ok": true, "err": null, "idx": 646, "kind": "heavy"}
+{"ms": 131.2, "ok": true, "err": null, "idx": 647, "kind": "state"}
+{"ms": 95.7, "ok": true, "err": null, "idx": 648, "kind": "static"}
+{"ms": 90.8, "ok": false, "err": "token missing", "idx": 649, "kind": "spa"}
+{"ms": 178.0, "ok": true, "err": null, "idx": 650, "kind": "heavy", "mem": 1537359872}
+{"ms": 94.3, "ok": true, "err": null, "idx": 651, "kind": "state"}
+{"ms": 95.3, "ok": true, "err": null, "idx": 652, "kind": "static"}
+{"ms": 94.1, "ok": false, "err": "token missing", "idx": 653, "kind": "spa"}
+{"ms": 207.4, "ok": true, "err": null, "idx": 654, "kind": "heavy"}
+{"ms": 156.3, "ok": true, "err": null, "idx": 655, "kind": "state"}
+{"ms": 107.0, "ok": true, "err": null, "idx": 656, "kind": "static"}
+{"ms": 94.8, "ok": false, "err": "token missing", "idx": 657, "kind": "spa"}
+{"ms": 178.4, "ok": true, "err": null, "idx": 658, "kind": "heavy"}
+{"ms": 143.6, "ok": true, "err": null, "idx": 659, "kind": "state"}
+{"ms": 107.4, "ok": true, "err": null, "idx": 660, "kind": "static"}
+{"ms": 96.4, "ok": false, "err": "token missing", "idx": 661, "kind": "spa"}
+{"ms": 183.1, "ok": true, "err": null, "idx": 662, "kind": "heavy"}
+{"ms": 139.0, "ok": true, "err": null, "idx": 663, "kind": "state"}
+{"ms": 97.3, "ok": true, "err": null, "idx": 664, "kind": "static"}
+{"ms": 95.0, "ok": false, "err": "token missing", "idx": 665, "kind": "spa"}
+{"ms": 181.6, "ok": true, "err": null, "idx": 666, "kind": "heavy"}
+{"ms": 148.0, "ok": true, "err": null, "idx": 667, "kind": "state"}
+{"ms": 103.7, "ok": true, "err": null, "idx": 668, "kind": "static"}
+{"ms": 96.8, "ok": false, "err": "token missing", "idx": 669, "kind": "spa"}
+{"ms": 180.7, "ok": true, "err": null, "idx": 670, "kind": "heavy"}
+{"ms": 159.5, "ok": true, "err": null, "idx": 671, "kind": "state"}
+{"ms": 113.6, "ok": true, "err": null, "idx": 672, "kind": "static"}
+{"ms": 116.6, "ok": false, "err": "token missing", "idx": 673, "kind": "spa"}
+{"ms": 196.2, "ok": true, "err": null, "idx": 674, "kind": "heavy"}
+{"ms": 172.1, "ok": true, "err": null, "idx": 675, "kind": "state"}
+{"ms": 121.7, "ok": true, "err": null, "idx": 676, "kind": "static"}
+{"ms": 105.0, "ok": false, "err": "token missing", "idx": 677, "kind": "spa"}
+{"ms": 187.7, "ok": true, "err": null, "idx": 678, "kind": "heavy"}
+{"ms": 140.2, "ok": true, "err": null, "idx": 679, "kind": "state"}
+{"ms": 97.9, "ok": true, "err": null, "idx": 680, "kind": "static"}
+{"ms": 99.1, "ok": false, "err": "token missing", "idx": 681, "kind": "spa"}
+{"ms": 197.2, "ok": true, "err": null, "idx": 682, "kind": "heavy"}
+{"ms": 159.2, "ok": true, "err": null, "idx": 683, "kind": "state"}
+{"ms": 104.6, "ok": true, "err": null, "idx": 684, "kind": "static"}
+{"ms": 109.0, "ok": false, "err": "token missing", "idx": 685, "kind": "spa"}
+{"ms": 218.1, "ok": true, "err": null, "idx": 686, "kind": "heavy"}
+{"ms": 148.2, "ok": true, "err": null, "idx": 687, "kind": "state"}
+{"ms": 127.4, "ok": true, "err": null, "idx": 688, "kind": "static"}
+{"ms": 114.0, "ok": false, "err": "token missing", "idx": 689, "kind": "spa"}
+{"ms": 192.1, "ok": true, "err": null, "idx": 690, "kind": "heavy"}
+{"ms": 151.4, "ok": true, "err": null, "idx": 691, "kind": "state"}
+{"ms": 141.7, "ok": true, "err": null, "idx": 692, "kind": "static"}
+{"ms": 125.2, "ok": false, "err": "token missing", "idx": 693, "kind": "spa"}
+{"ms": 219.5, "ok": true, "err": null, "idx": 694, "kind": "heavy"}
+{"ms": 146.9, "ok": true, "err": null, "idx": 695, "kind": "state"}
+{"ms": 110.8, "ok": true, "err": null, "idx": 696, "kind": "static"}
+{"ms": 101.6, "ok": false, "err": "token missing", "idx": 697, "kind": "spa"}
+{"ms": 197.4, "ok": true, "err": null, "idx": 698, "kind": "heavy"}
+{"ms": 151.0, "ok": true, "err": null, "idx": 699, "kind": "state"}
+{"ms": 108.8, "ok": true, "err": null, "idx": 700, "kind": "static", "mem": 1595949056}
+{"ms": 109.0, "ok": false, "err": "token missing", "idx": 701, "kind": "spa"}
+{"ms": 207.3, "ok": true, "err": null, "idx": 702, "kind": "heavy"}
+{"ms": 158.2, "ok": true, "err": null, "idx": 703, "kind": "state"}
+{"ms": 119.0, "ok": true, "err": null, "idx": 704, "kind": "static"}
+{"ms": 108.2, "ok": false, "err": "token missing", "idx": 705, "kind": "spa"}
+{"ms": 197.7, "ok": true, "err": null, "idx": 706, "kind": "heavy"}
+{"ms": 148.7, "ok": true, "err": null, "idx": 707, "kind": "state"}
+{"ms": 110.1, "ok": true, "err": null, "idx": 708, "kind": "static"}
+{"ms": 110.0, "ok": false, "err": "token missing", "idx": 709, "kind": "spa"}
+{"ms": 199.7, "ok": true, "err": null, "idx": 710, "kind": "heavy"}
+{"ms": 151.5, "ok": true, "err": null, "idx": 711, "kind": "state"}
+{"ms": 111.9, "ok": true, "err": null, "idx": 712, "kind": "static"}
+{"ms": 100.0, "ok": false, "err": "token missing", "idx": 713, "kind": "spa"}
+{"ms": 215.2, "ok": true, "err": null, "idx": 714, "kind": "heavy"}
+{"ms": 151.7, "ok": true, "err": null, "idx": 715, "kind": "state"}
+{"ms": 113.1, "ok": true, "err": null, "idx": 716, "kind": "static"}
+{"ms": 114.7, "ok": false, "err": "token missing", "idx": 717, "kind": "spa"}
+{"ms": 238.7, "ok": true, "err": null, "idx": 718, "kind": "heavy"}
+{"ms": 170.8, "ok": true, "err": null, "idx": 719, "kind": "state"}
+{"ms": 106.5, "ok": true, "err": null, "idx": 720, "kind": "static"}
+{"ms": 105.7, "ok": false, "err": "token missing", "idx": 721, "kind": "spa"}
+{"ms": 209.6, "ok": true, "err": null, "idx": 722, "kind": "heavy"}
+{"ms": 101.4, "ok": true, "err": null, "idx": 723, "kind": "state"}
+{"ms": 101.7, "ok": true, "err": null, "idx": 724, "kind": "static"}
+{"ms": 103.3, "ok": false, "err": "token missing", "idx": 725, "kind": "spa"}
+{"ms": 197.0, "ok": true, "err": null, "idx": 726, "kind": "heavy"}
+{"ms": 315.1, "ok": true, "err": null, "idx": 727, "kind": "state"}
+{"ms": 132.0, "ok": true, "err": null, "idx": 728, "kind": "static"}
+{"ms": 130.9, "ok": false, "err": "token missing", "idx": 729, "kind": "spa"}
+{"ms": 239.0, "ok": true, "err": null, "idx": 730, "kind": "heavy"}
+{"ms": 156.1, "ok": true, "err": null, "idx": 731, "kind": "state"}
+{"ms": 141.7, "ok": true, "err": null, "idx": 732, "kind": "static"}
+{"ms": 142.8, "ok": false, "err": "token missing", "idx": 733, "kind": "spa"}
+{"ms": 253.4, "ok": true, "err": null, "idx": 734, "kind": "heavy"}
+{"ms": 125.9, "ok": true, "err": null, "idx": 735, "kind": "state"}
+{"ms": 123.3, "ok": true, "err": null, "idx": 736, "kind": "static"}
+{"ms": 121.4, "ok": false, "err": "token missing", "idx": 737, "kind": "spa"}
+{"ms": 228.3, "ok": true, "err": null, "idx": 738, "kind": "heavy"}
+{"ms": 186.6, "ok": true, "err": null, "idx": 739, "kind": "state"}
+{"ms": 146.0, "ok": true, "err": null, "idx": 740, "kind": "static"}
+{"ms": 111.2, "ok": false, "err": "token missing", "idx": 741, "kind": "spa"}
+{"ms": 201.2, "ok": true, "err": null, "idx": 742, "kind": "heavy"}
+{"ms": 144.2, "ok": true, "err": null, "idx": 743, "kind": "state"}
+{"ms": 115.7, "ok": true, "err": null, "idx": 744, "kind": "static"}
+{"ms": 114.5, "ok": false, "err": "token missing", "idx": 745, "kind": "spa"}
+{"ms": 215.1, "ok": true, "err": null, "idx": 746, "kind": "heavy"}
+{"ms": 129.0, "ok": true, "err": null, "idx": 747, "kind": "state"}
+{"ms": 135.3, "ok": true, "err": null, "idx": 748, "kind": "static"}
+{"ms": 127.1, "ok": false, "err": "token missing", "idx": 749, "kind": "spa"}
+{"ms": 213.6, "ok": true, "err": null, "idx": 750, "kind": "heavy", "mem": 1701277696}
+{"ms": 109.3, "ok": true, "err": null, "idx": 751, "kind": "state"}
+{"ms": 106.4, "ok": true, "err": null, "idx": 752, "kind": "static"}
+{"ms": 118.2, "ok": false, "err": "token missing", "idx": 753, "kind": "spa"}
+{"ms": 192.4, "ok": true, "err": null, "idx": 754, "kind": "heavy"}
+{"ms": 144.3, "ok": true, "err": null, "idx": 755, "kind": "state"}
+{"ms": 109.3, "ok": true, "err": null, "idx": 756, "kind": "static"}
+{"ms": 110.4, "ok": false, "err": "token missing", "idx": 757, "kind": "spa"}
+{"ms": 183.0, "ok": true, "err": null, "idx": 758, "kind": "heavy"}
+{"ms": 148.2, "ok": true, "err": null, "idx": 759, "kind": "state"}
+{"ms": 108.3, "ok": true, "err": null, "idx": 760, "kind": "static"}
+{"ms": 109.0, "ok": false, "err": "token missing", "idx": 761, "kind": "spa"}
+{"ms": 203.5, "ok": true, "err": null, "idx": 762, "kind": "heavy"}
+{"ms": 153.1, "ok": true, "err": null, "idx": 763, "kind": "state"}
+{"ms": 116.3, "ok": true, "err": null, "idx": 764, "kind": "static"}
+{"ms": 111.3, "ok": false, "err": "token missing", "idx": 765, "kind": "spa"}
+{"ms": 194.7, "ok": true, "err": null, "idx": 766, "kind": "heavy"}
+{"ms": 145.2, "ok": true, "err": null, "idx": 767, "kind": "state"}
+{"ms": 107.9, "ok": true, "err": null, "idx": 768, "kind": "static"}
+{"ms": 114.8, "ok": false, "err": "token missing", "idx": 769, "kind": "spa"}
+{"ms": 187.8, "ok": true, "err": null, "idx": 770, "kind": "heavy"}
+{"ms": 142.4, "ok": true, "err": null, "idx": 771, "kind": "state"}
+{"ms": 106.9, "ok": true, "err": null, "idx": 772, "kind": "static"}
+{"ms": 102.6, "ok": false, "err": "token missing", "idx": 773, "kind": "spa"}
+{"ms": 188.4, "ok": true, "err": null, "idx": 774, "kind": "heavy"}
+{"ms": 145.1, "ok": true, "err": null, "idx": 775, "kind": "state"}
+{"ms": 112.4, "ok": true, "err": null, "idx": 776, "kind": "static"}
+{"ms": 108.6, "ok": false, "err": "token missing", "idx": 777, "kind": "spa"}
+{"ms": 199.9, "ok": true, "err": null, "idx": 778, "kind": "heavy"}
+{"ms": 156.4, "ok": true, "err": null, "idx": 779, "kind": "state"}
+{"ms": 116.3, "ok": true, "err": null, "idx": 780, "kind": "static"}
+{"ms": 102.0, "ok": false, "err": "token missing", "idx": 781, "kind": "spa"}
+{"ms": 190.8, "ok": true, "err": null, "idx": 782, "kind": "heavy"}
+{"ms": 144.7, "ok": true, "err": null, "idx": 783, "kind": "state"}
+{"ms": 108.2, "ok": true, "err": null, "idx": 784, "kind": "static"}
+{"ms": 109.4, "ok": false, "err": "token missing", "idx": 785, "kind": "spa"}
+{"ms": 187.6, "ok": true, "err": null, "idx": 786, "kind": "heavy"}
+{"ms": 155.7, "ok": true, "err": null, "idx": 787, "kind": "state"}
+{"ms": 113.8, "ok": true, "err": null, "idx": 788, "kind": "static"}
+{"ms": 119.3, "ok": false, "err": "token missing", "idx": 789, "kind": "spa"}
+{"ms": 213.3, "ok": true, "err": null, "idx": 790, "kind": "heavy"}
+{"ms": 107.1, "ok": true, "err": null, "idx": 791, "kind": "state"}
+{"ms": 112.9, "ok": true, "err": null, "idx": 792, "kind": "static"}
+{"ms": 115.6, "ok": false, "err": "token missing", "idx": 793, "kind": "spa"}
+{"ms": 205.4, "ok": true, "err": null, "idx": 794, "kind": "heavy"}
+{"ms": 155.9, "ok": true, "err": null, "idx": 795, "kind": "state"}
+{"ms": 118.6, "ok": true, "err": null, "idx": 796, "kind": "static"}
+{"ms": 109.2, "ok": false, "err": "token missing", "idx": 797, "kind": "spa"}
+{"ms": 205.1, "ok": true, "err": null, "idx": 798, "kind": "heavy"}
+{"ms": 144.6, "ok": true, "err": null, "idx": 799, "kind": "state"}
+{"ms": 113.1, "ok": true, "err": null, "idx": 800, "kind": "static", "mem": 1761792000}
+{"ms": 108.5, "ok": false, "err": "token missing", "idx": 801, "kind": "spa"}
+{"ms": 200.1, "ok": true, "err": null, "idx": 802, "kind": "heavy"}
+{"ms": 150.1, "ok": true, "err": null, "idx": 803, "kind": "state"}
+{"ms": 112.5, "ok": true, "err": null, "idx": 804, "kind": "static"}
+{"ms": 129.3, "ok": false, "err": "token missing", "idx": 805, "kind": "spa"}
+{"ms": 240.7, "ok": true, "err": null, "idx": 806, "kind": "heavy"}
+{"ms": 110.6, "ok": true, "err": null, "idx": 807, "kind": "state"}
+{"ms": 120.5, "ok": true, "err": null, "idx": 808, "kind": "static"}
+{"ms": 124.2, "ok": false, "err": "token missing", "idx": 809, "kind": "spa"}
+{"ms": 227.6, "ok": true, "err": null, "idx": 810, "kind": "heavy"}
+{"ms": 159.3, "ok": true, "err": null, "idx": 811, "kind": "state"}
+{"ms": 111.4, "ok": true, "err": null, "idx": 812, "kind": "static"}
+{"ms": 114.6, "ok": false, "err": "token missing", "idx": 813, "kind": "spa"}
+{"ms": 194.6, "ok": true, "err": null, "idx": 814, "kind": "heavy"}
+{"ms": 164.3, "ok": true, "err": null, "idx": 815, "kind": "state"}
+{"ms": 120.2, "ok": true, "err": null, "idx": 816, "kind": "static"}
+{"ms": 102.6, "ok": false, "err": "token missing", "idx": 817, "kind": "spa"}
+{"ms": 195.8, "ok": true, "err": null, "idx": 818, "kind": "heavy"}
+{"ms": 146.3, "ok": true, "err": null, "idx": 819, "kind": "state"}
+{"ms": 116.1, "ok": true, "err": null, "idx": 820, "kind": "static"}
+{"ms": 218.0, "ok": false, "err": "token missing", "idx": 821, "kind": "spa"}
+{"ms": 261.6, "ok": true, "err": null, "idx": 822, "kind": "heavy"}
+{"ms": 153.2, "ok": true, "err": null, "idx": 823, "kind": "state"}
+{"ms": 126.4, "ok": true, "err": null, "idx": 824, "kind": "static"}
+{"ms": 138.5, "ok": false, "err": "token missing", "idx": 825, "kind": "spa"}
+{"ms": 225.1, "ok": true, "err": null, "idx": 826, "kind": "heavy"}
+{"ms": 128.7, "ok": true, "err": null, "idx": 827, "kind": "state"}
+{"ms": 124.1, "ok": true, "err": null, "idx": 828, "kind": "static"}
+{"ms": 115.0, "ok": false, "err": "token missing", "idx": 829, "kind": "spa"}
+{"ms": 199.1, "ok": true, "err": null, "idx": 830, "kind": "heavy"}
+{"ms": 152.6, "ok": true, "err": null, "idx": 831, "kind": "state"}
+{"ms": 120.7, "ok": true, "err": null, "idx": 832, "kind": "static"}
+{"ms": 115.3, "ok": false, "err": "token missing", "idx": 833, "kind": "spa"}
+{"ms": 191.8, "ok": true, "err": null, "idx": 834, "kind": "heavy"}
+{"ms": 151.1, "ok": true, "err": null, "idx": 835, "kind": "state"}
+{"ms": 124.1, "ok": true, "err": null, "idx": 836, "kind": "static"}
+{"ms": 127.8, "ok": false, "err": "token missing", "idx": 837, "kind": "spa"}
+{"ms": 225.7, "ok": true, "err": null, "idx": 838, "kind": "heavy"}
+{"ms": 158.0, "ok": true, "err": null, "idx": 839, "kind": "state"}
+{"ms": 127.2, "ok": true, "err": null, "idx": 840, "kind": "static"}
+{"ms": 107.7, "ok": false, "err": "token missing", "idx": 841, "kind": "spa"}
+{"ms": 202.8, "ok": true, "err": null, "idx": 842, "kind": "heavy"}
+{"ms": 162.5, "ok": true, "err": null, "idx": 843, "kind": "state"}
+{"ms": 131.4, "ok": true, "err": null, "idx": 844, "kind": "static"}
+{"ms": 165.0, "ok": false, "err": "token missing", "idx": 845, "kind": "spa"}
+{"ms": 274.2, "ok": true, "err": null, "idx": 846, "kind": "heavy"}
+{"ms": 193.4, "ok": true, "err": null, "idx": 847, "kind": "state"}
+{"ms": 132.3, "ok": true, "err": null, "idx": 848, "kind": "static"}
+{"ms": 123.2, "ok": false, "err": "token missing", "idx": 849, "kind": "spa"}
+{"ms": 252.8, "ok": true, "err": null, "idx": 850, "kind": "heavy", "mem": 1800925184}
+{"ms": 140.3, "ok": true, "err": null, "idx": 851, "kind": "state"}
+{"ms": 143.1, "ok": true, "err": null, "idx": 852, "kind": "static"}
+{"ms": 132.9, "ok": false, "err": "token missing", "idx": 853, "kind": "spa"}
+{"ms": 227.8, "ok": true, "err": null, "idx": 854, "kind": "heavy"}
+{"ms": 174.4, "ok": true, "err": null, "idx": 855, "kind": "state"}
+{"ms": 147.1, "ok": true, "err": null, "idx": 856, "kind": "static"}
+{"ms": 134.6, "ok": false, "err": "token missing", "idx": 857, "kind": "spa"}
+{"ms": 232.0, "ok": true, "err": null, "idx": 858, "kind": "heavy"}
+{"ms": 122.5, "ok": true, "err": null, "idx": 859, "kind": "state"}
+{"ms": 126.2, "ok": true, "err": null, "idx": 860, "kind": "static"}
+{"ms": 115.3, "ok": false, "err": "token missing", "idx": 861, "kind": "spa"}
+{"ms": 203.0, "ok": true, "err": null, "idx": 862, "kind": "heavy"}
+{"ms": 171.8, "ok": true, "err": null, "idx": 863, "kind": "state"}
+{"ms": 124.7, "ok": true, "err": null, "idx": 864, "kind": "static"}
+{"ms": 126.5, "ok": false, "err": "token missing", "idx": 865, "kind": "spa"}
+{"ms": 235.8, "ok": true, "err": null, "idx": 866, "kind": "heavy"}
+{"ms": 141.0, "ok": true, "err": null, "idx": 867, "kind": "state"}
+{"ms": 127.1, "ok": true, "err": null, "idx": 868, "kind": "static"}
+{"ms": 118.1, "ok": false, "err": "token missing", "idx": 869, "kind": "spa"}
+{"ms": 189.6, "ok": true, "err": null, "idx": 870, "kind": "heavy"}
+{"ms": 165.3, "ok": true, "err": null, "idx": 871, "kind": "state"}
+{"ms": 109.9, "ok": true, "err": null, "idx": 872, "kind": "static"}
+{"ms": 111.1, "ok": false, "err": "token missing", "idx": 873, "kind": "spa"}
+{"ms": 190.1, "ok": true, "err": null, "idx": 874, "kind": "heavy"}
+{"ms": 150.2, "ok": true, "err": null, "idx": 875, "kind": "state"}
+{"ms": 136.9, "ok": true, "err": null, "idx": 876, "kind": "static"}
+{"ms": 125.9, "ok": false, "err": "token missing", "idx": 877, "kind": "spa"}
+{"ms": 199.2, "ok": true, "err": null, "idx": 878, "kind": "heavy"}
+{"ms": 124.5, "ok": true, "err": null, "idx": 879, "kind": "state"}
+{"ms": 129.5, "ok": true, "err": null, "idx": 880, "kind": "static"}
+{"ms": 112.0, "ok": false, "err": "token missing", "idx": 881, "kind": "spa"}
+{"ms": 196.3, "ok": true, "err": null, "idx": 882, "kind": "heavy"}
+{"ms": 154.0, "ok": true, "err": null, "idx": 883, "kind": "state"}
+{"ms": 118.3, "ok": true, "err": null, "idx": 884, "kind": "static"}
+{"ms": 108.6, "ok": false, "err": "token missing", "idx": 885, "kind": "spa"}
+{"ms": 194.6, "ok": true, "err": null, "idx": 886, "kind": "heavy"}
+{"ms": 154.9, "ok": true, "err": null, "idx": 887, "kind": "state"}
+{"ms": 109.9, "ok": true, "err": null, "idx": 888, "kind": "static"}
+{"ms": 123.1, "ok": false, "err": "token missing", "idx": 889, "kind": "spa"}
+{"ms": 196.9, "ok": true, "err": null, "idx": 890, "kind": "heavy"}
+{"ms": 150.7, "ok": true, "err": null, "idx": 891, "kind": "state"}
+{"ms": 110.9, "ok": true, "err": null, "idx": 892, "kind": "static"}
+{"ms": 117.3, "ok": false, "err": "token missing", "idx": 893, "kind": "spa"}
+{"ms": 203.1, "ok": true, "err": null, "idx": 894, "kind": "heavy"}
+{"ms": 159.9, "ok": true, "err": null, "idx": 895, "kind": "state"}
+{"ms": 115.2, "ok": true, "err": null, "idx": 896, "kind": "static"}
+{"ms": 108.6, "ok": false, "err": "token missing", "idx": 897, "kind": "spa"}
+{"ms": 210.8, "ok": true, "err": null, "idx": 898, "kind": "heavy"}
+{"ms": 126.0, "ok": true, "err": null, "idx": 899, "kind": "state"}
+{"ms": 111.1, "ok": true, "err": null, "idx": 900, "kind": "static", "mem": 1919627264}
+{"ms": 113.1, "ok": false, "err": "token missing", "idx": 901, "kind": "spa"}
+{"ms": 209.3, "ok": true, "err": null, "idx": 902, "kind": "heavy"}
+{"ms": 109.6, "ok": true, "err": null, "idx": 903, "kind": "state"}
+{"ms": 119.2, "ok": true, "err": null, "idx": 904, "kind": "static"}
+{"ms": 114.9, "ok": false, "err": "token missing", "idx": 905, "kind": "spa"}
+{"ms": 191.3, "ok": true, "err": null, "idx": 906, "kind": "heavy"}
+{"ms": 148.7, "ok": true, "err": null, "idx": 907, "kind": "state"}
+{"ms": 112.4, "ok": true, "err": null, "idx": 908, "kind": "static"}
+{"ms": 110.9, "ok": false, "err": "token missing", "idx": 909, "kind": "spa"}
+{"ms": 195.9, "ok": true, "err": null, "idx": 910, "kind": "heavy"}
+{"ms": 164.1, "ok": true, "err": null, "idx": 911, "kind": "state"}
+{"ms": 112.6, "ok": true, "err": null, "idx": 912, "kind": "static"}
+{"ms": 109.8, "ok": false, "err": "token missing", "idx": 913, "kind": "spa"}
+{"ms": 220.1, "ok": true, "err": null, "idx": 914, "kind": "heavy"}
+{"ms": 150.3, "ok": true, "err": null, "idx": 915, "kind": "state"}
+{"ms": 112.9, "ok": true, "err": null, "idx": 916, "kind": "static"}
+{"ms": 109.1, "ok": false, "err": "token missing", "idx": 917, "kind": "spa"}
+{"ms": 196.8, "ok": true, "err": null, "idx": 918, "kind": "heavy"}
+{"ms": 168.6, "ok": true, "err": null, "idx": 919, "kind": "state"}
+{"ms": 114.4, "ok": true, "err": null, "idx": 920, "kind": "static"}
+{"ms": 115.9, "ok": false, "err": "token missing", "idx": 921, "kind": "spa"}
+{"ms": 220.0, "ok": true, "err": null, "idx": 922, "kind": "heavy"}
+{"ms": 164.9, "ok": true, "err": null, "idx": 923, "kind": "state"}
+{"ms": 128.6, "ok": true, "err": null, "idx": 924, "kind": "static"}
+{"ms": 122.9, "ok": false, "err": "token missing", "idx": 925, "kind": "spa"}
+{"ms": 227.7, "ok": true, "err": null, "idx": 926, "kind": "heavy"}
+{"ms": 392.3, "ok": true, "err": null, "idx": 927, "kind": "state"}
+{"ms": 205.2, "ok": true, "err": null, "idx": 928, "kind": "static"}
+{"ms": 140.2, "ok": false, "err": "token missing", "idx": 929, "kind": "spa"}
+{"ms": 240.8, "ok": true, "err": null, "idx": 930, "kind": "heavy"}
+{"ms": 134.2, "ok": true, "err": null, "idx": 931, "kind": "state"}
+{"ms": 145.9, "ok": true, "err": null, "idx": 932, "kind": "static"}
+{"ms": 140.2, "ok": false, "err": "token missing", "idx": 933, "kind": "spa"}
+{"ms": 219.2, "ok": true, "err": null, "idx": 934, "kind": "heavy"}
+{"ms": 142.6, "ok": true, "err": null, "idx": 935, "kind": "state"}
+{"ms": 145.4, "ok": true, "err": null, "idx": 936, "kind": "static"}
+{"ms": 175.0, "ok": false, "err": "token missing", "idx": 937, "kind": "spa"}
+{"ms": 279.1, "ok": true, "err": null, "idx": 938, "kind": "heavy"}
+{"ms": 172.4, "ok": true, "err": null, "idx": 939, "kind": "state"}
+{"ms": 130.3, "ok": true, "err": null, "idx": 940, "kind": "static"}
+{"ms": 130.0, "ok": false, "err": "token missing", "idx": 941, "kind": "spa"}
+{"ms": 236.8, "ok": true, "err": null, "idx": 942, "kind": "heavy"}
+{"ms": 165.8, "ok": true, "err": null, "idx": 943, "kind": "state"}
+{"ms": 127.0, "ok": true, "err": null, "idx": 944, "kind": "static"}
+{"ms": 137.6, "ok": false, "err": "token missing", "idx": 945, "kind": "spa"}
+{"ms": 234.2, "ok": true, "err": null, "idx": 946, "kind": "heavy"}
+{"ms": 172.3, "ok": true, "err": null, "idx": 947, "kind": "state"}
+{"ms": 136.6, "ok": true, "err": null, "idx": 948, "kind": "static"}
+{"ms": 155.1, "ok": false, "err": "token missing", "idx": 949, "kind": "spa"}
+{"ms": 308.9, "ok": true, "err": null, "idx": 950, "kind": "heavy", "mem": 1993605120}
+{"ms": 223.5, "ok": true, "err": null, "idx": 951, "kind": "state"}
+{"ms": 174.3, "ok": true, "err": null, "idx": 952, "kind": "static"}
+{"ms": 172.8, "ok": false, "err": "token missing", "idx": 953, "kind": "spa"}
+{"ms": 252.2, "ok": true, "err": null, "idx": 954, "kind": "heavy"}
+{"ms": 188.3, "ok": true, "err": null, "idx": 955, "kind": "state"}
+{"ms": 157.5, "ok": true, "err": null, "idx": 956, "kind": "static"}
+{"ms": 145.4, "ok": false, "err": "token missing", "idx": 957, "kind": "spa"}
+{"ms": 242.7, "ok": true, "err": null, "idx": 958, "kind": "heavy"}
+{"ms": 222.2, "ok": true, "err": null, "idx": 959, "kind": "state"}
+{"ms": 145.7, "ok": true, "err": null, "idx": 960, "kind": "static"}
+{"ms": 156.2, "ok": false, "err": "token missing", "idx": 961, "kind": "spa"}
+{"ms": 289.4, "ok": true, "err": null, "idx": 962, "kind": "heavy"}
+{"ms": 140.8, "ok": true, "err": null, "idx": 963, "kind": "state"}
+{"ms": 136.5, "ok": true, "err": null, "idx": 964, "kind": "static"}
+{"ms": 137.4, "ok": false, "err": "token missing", "idx": 965, "kind": "spa"}
+{"ms": 253.1, "ok": true, "err": null, "idx": 966, "kind": "heavy"}
+{"ms": 200.2, "ok": true, "err": null, "idx": 967, "kind": "state"}
+{"ms": 154.0, "ok": true, "err": null, "idx": 968, "kind": "static"}
+{"ms": 147.8, "ok": false, "err": "token missing", "idx": 969, "kind": "spa"}
+{"ms": 226.1, "ok": true, "err": null, "idx": 970, "kind": "heavy"}
+{"ms": 176.7, "ok": true, "err": null, "idx": 971, "kind": "state"}
+{"ms": 145.3, "ok": true, "err": null, "idx": 972, "kind": "static"}
+{"ms": 131.9, "ok": false, "err": "token missing", "idx": 973, "kind": "spa"}
+{"ms": 215.6, "ok": true, "err": null, "idx": 974, "kind": "heavy"}
+{"ms": 174.1, "ok": true, "err": null, "idx": 975, "kind": "state"}
+{"ms": 140.8, "ok": true, "err": null, "idx": 976, "kind": "static"}
+{"ms": 125.3, "ok": false, "err": "token missing", "idx": 977, "kind": "spa"}
+{"ms": 229.0, "ok": true, "err": null, "idx": 978, "kind": "heavy"}
+{"ms": 185.7, "ok": true, "err": null, "idx": 979, "kind": "state"}
+{"ms": 143.5, "ok": true, "err": null, "idx": 980, "kind": "static"}
+{"ms": 129.8, "ok": false, "err": "token missing", "idx": 981, "kind": "spa"}
+{"ms": 218.4, "ok": true, "err": null, "idx": 982, "kind": "heavy"}
+{"ms": 180.2, "ok": true, "err": null, "idx": 983, "kind": "state"}
+{"ms": 140.4, "ok": true, "err": null, "idx": 984, "kind": "static"}
+{"ms": 137.9, "ok": false, "err": "token missing", "idx": 985, "kind": "spa"}
+{"ms": 226.0, "ok": true, "err": null, "idx": 986, "kind": "heavy"}
+{"ms": 187.3, "ok": true, "err": null, "idx": 987, "kind": "state"}
+{"ms": 149.4, "ok": true, "err": null, "idx": 988, "kind": "static"}
+{"ms": 143.6, "ok": false, "err": "token missing", "idx": 989, "kind": "spa"}
+{"ms": 213.6, "ok": true, "err": null, "idx": 990, "kind": "heavy"}
+{"ms": 174.2, "ok": true, "err": null, "idx": 991, "kind": "state"}
+{"ms": 152.7, "ok": true, "err": null, "idx": 992, "kind": "static"}
+{"ms": 154.4, "ok": false, "err": "token missing", "idx": 993, "kind": "spa"}
+{"ms": 255.4, "ok": true, "err": null, "idx": 994, "kind": "heavy"}
+{"ms": 185.9, "ok": true, "err": null, "idx": 995, "kind": "state"}
+{"ms": 144.6, "ok": true, "err": null, "idx": 996, "kind": "static"}
+{"ms": 149.1, "ok": false, "err": "token missing", "idx": 997, "kind": "spa"}
+{"ms": 230.8, "ok": true, "err": null, "idx": 998, "kind": "heavy"}
+{"ms": 88.0, "ok": true, "err": null, "idx": 999, "kind": "state"}
+{"final_mem": 2066718720}
