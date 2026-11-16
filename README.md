@@ -112,8 +112,8 @@ ms per 100 pages, first → last:
 2. **Crawl4AI reports that case as an anti-bot block.** The page is fine and `wait_for` fixes
    it, but the default error points at proxies and stealth settings.
 3. **Lightpanda is the fastest and lightest here**: ~56 ms per static page, ~98 ms for the
-   heavy one (Chromium: ~130), and 10 → 126 MB over 1,000 pages against 360 MB+ for any
-   Chromium setup. It needs the same explicit wait as Chromium for late content.
+   heavy one (Chromium: ~130), and 10 → 126 MB (container) over 1,000 pages, where the
+   Chromium setups started at 359–887 MB of process-tree RSS. It needs the same explicit wait as Chromium for late content.
 4. **A Chromium tab driven back-to-back slows down and grows.** One reused tab at `load`
    went from ~50 to ~140 ms per page and its renderer to 1–2 GB over 1,000 pages. A new tab
    per page, or 500 ms of idle between pages, keeps it flat. It is not the back/forward cache;
